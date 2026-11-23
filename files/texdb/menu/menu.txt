@@ -1,0 +1,44 @@
+cat=0 name=Default onfoot=5 slow=5 fast=5 defaultformat=4 defaultstream=1
+"mobilesc0" width=1280 height=960 png=cc0dcb0d img=df2f01fa mipmode=0
+"mobilesc1" width=1280 height=960 png=5b2acf9c img=4f68db10 mipmode=0
+"mobilesc2" width=1280 height=960 png=00a7d3dd img=5f12df38 mipmode=0
+"mobilesc3" width=1280 height=960 png=417ab30f img=dddd79cc mipmode=0
+"mobilesc4" width=1280 height=960 png=efedde3c img=9e28f108 mipmode=0
+"mobilesc5" width=1280 height=960 png=2fd5cf52 img=c5a491fb mipmode=0
+"mobilesc6" width=1280 height=960 png=9b0d4bbb img=471a2669 mipmode=0
+"menu_mainmask" width=256 height=256 png=956a7356 img=7cd18ed5 alphamode=2
+"menu_mainpresents" width=256 height=32 png=60fa8b75 img=5619bcec mipmode=0 alphamode=2
+"menu_selector" width=32 height=64 png=22d02af5 img=30ac1c0b mipmode=0 alphamode=2
+"menu_slidernub" width=32 height=32 png=0939c09b img=9427679f alphamode=2
+"menu_smalllogo" width=256 height=256 png=015bd676 img=293f4934 alphamode=2
+"menu_main1" width=1024 height=576 png=c749c818 img=a553fe37 mipmode=0 alphamode=2
+"menu_main2" width=1024 height=576 png=ff71edfe img=0b9198b4 mipmode=0 alphamode=2
+"menu_main3" width=1024 height=576 png=1666c363 img=d83b0ee9 mipmode=0 alphamode=2
+"menu_adjback" width=516 height=260 img=7f5af3aa mipmode=0 alphamode=2
+"menu_adjback2" width=516 height=260 img=4137d0cb mipmode=0 alphamode=2
+"menu_bgmap" width=1028 height=1028 img=6633a54 mipmode=0 alphamode=2
+"menu_char0" width=320 height=720 img=e8dc9e2 mipmode=0 alphamode=2
+"menu_char1" width=320 height=720 img=4589f925 mipmode=0 alphamode=2
+"menu_char2" width=320 height=720 img=4152242e mipmode=0 alphamode=2
+"menu_char4" width=320 height=720 img=1824670 mipmode=0 alphamode=2
+"menu_char5" width=320 height=720 img=90217b01 mipmode=0 alphamode=2
+"menu_char6" width=320 height=720 img=cd9c36e9 mipmode=0 alphamode=2
+"menu_char7" width=320 height=720 img=14ad4a26 mipmode=0 alphamode=2
+"menu_char8" width=320 height=720 img=ac3b34c7 mipmode=0 alphamode=2
+"menu_main4" width=1024 height=576 img=79215f5c mipmode=0 alphamode=2
+"menu_mainaudio" width=64 height=64 img=bbad4f10 alphamode=2
+"menu_mainbriefs" width=64 height=64 img=a49d4a05 alphamode=2
+"menu_maincontrols" width=64 height=64 img=e18c27ea alphamode=2
+"menu_maindelete" width=64 height=64 img=f2ccf814 alphamode=2
+"menu_maindisplay" width=64 height=64 img=573a920c alphamode=2
+"menu_mainhelp" width=64 height=64 img=70421450 alphamode=2
+"menu_mainlanguage" width=64 height=64 img=4acc7da6 alphamode=2
+"menu_mainplay" width=68 height=64 img=35df3966 mipmode=0 alphamode=2
+"menu_mainresume" width=64 height=64 img=a1ac9fb0 alphamode=2
+"menu_mainsave" width=64 height=64 img=25d63784 alphamode=2
+"menu_mainsettings" width=64 height=64 img=b4f31988 alphamode=2
+"menu_mainstats" width=64 height=64 img=3ff3b977 alphamode=2
+"menu_sliderempty" width=128 height=32 img=a57e9b28 alphamode=2
+"menu_sliderfull" width=128 height=32 img=3c33c056 alphamode=2
+"menu_char3" width=320 height=720 img=d4ca3fbe mipmode=0 alphamode=2
+"menu_mainquit" width=64 height=64 img=625a2544 camnorm=1 mipmode=0 alphamode=2

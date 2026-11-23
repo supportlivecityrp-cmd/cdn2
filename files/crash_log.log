@@ -1,0 +1,1506 @@
+/storage/emulated/0/Android/data/com.desery.cr/files/crash_log.log
+register states:
+r0: 0xB6EB2000, r1: 0x9450B44C, r2: 0x0, r3: 0x1
+r4: 0xb6eb2000, r5: 0xb710c180, r6: 0x0, r7: 0x95978f80
+r8: 0xffffffff, r9: 0x0, sl: 0xb710c184, fp: 0x9489e8fc
+ip: 0x945157d8, sp: 0x95978f78, lr: 0x943e5b35, pc: 0x94378b1a
+1: libGTASA.so + 0x4D6B1A
+2: libGTASA.so + 0x543B35
+1: libsamp.so + 0xF75B1A
+2: libsamp.so + 0xFE2B35
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xec4dcb28 samp: 0x590d9b28 gta: 0x5863ab28] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0xf05fd754 samp: 0x5d1fa754 gta: 0x5c75b754] name not found
+
+[adr: 0x94378b1a samp: 0xf75b1a gta: 0x4d6b1a] _ZN12CTaskComplexC2Ev
+
+[adr: 0x943e5b34 samp: 0xfe2b34 gta: 0x543b34] _ZNK18CTaskComplexFacial5CloneEv
+
+[adr: 0x94362b82 samp: 0xf5fb82 gta: 0x4c0b82] _ZN16CPedIntelligence16FlushImmediatelyEb
+
+[adr: 0x94349264 samp: 0xf46264 gta: 0x4a7264] _ZN4CPed8TeleportE7CVectorh
+
+[adr: 0x9348813a samp: 0x8513a gta: 0xff5e613a] name not found
+
+[adr: 0x934af2ae samp: 0xac2ae gta: 0xff60d2ae] name not found
+
+[adr: 0x9348d596 samp: 0x8a596 gta: 0xff5eb596] name not found
+
+[adr: 0x94298a36 samp: 0xe95a36 gta: 0x3f6a36] _Z4IdlePvb
+
+[adr: 0x94298f4c samp: 0xe95f4c gta: 0x3f6f4c] _Z15AppEventHandler7RsEventPv
+
+[adr: 0x9437638c samp: 0xf7338c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0x94486a4c samp: 0x1083a4c gta: 0x5e4a4c] _Z11DoGameStatev
+
+[adr: 0x944871fc samp: 0x10841fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0x9410df22 samp: 0xd0af22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0x9411c170 samp: 0xd19170 gta: 0x27a170] name not found
+
+[adr: 0xf064ca64 samp: 0x5d249a64 gta: 0x5c7aaa64] name not found
+
+[adr: 0xf0603afe samp: 0x5d200afe gta: 0x5c761afe] name not found
+
+/storage/emulated/0/Android/data/com.desery.cr/files/crash_log.log
+register states:
+r0: 0xEB500000, r1: 0x9453B44C, r2: 0x0, r3: 0x1
+r4: 0xeb500000, r5: 0xb6ea8180, r6: 0x0, r7: 0x95d14f80
+r8: 0xffffffff, r9: 0x0, sl: 0xb6ea8184, fp: 0x948ce8fc
+ip: 0x945457d8, sp: 0x95d14f78, lr: 0x94415b35, pc: 0x943a8b1a
+1: libGTASA.so + 0x4D6B1A
+2: libGTASA.so + 0x543B35
+1: libsamp.so + 0xE27B1A
+2: libsamp.so + 0xE94B35
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xec4dcb28 samp: 0x58f5bb28 gta: 0x5860ab28] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0xf05fd754 samp: 0x5d07c754 gta: 0x5c72b754] name not found
+
+[adr: 0x943a8b1a samp: 0xe27b1a gta: 0x4d6b1a] _ZN12CTaskComplexC2Ev
+
+[adr: 0x94415b34 samp: 0xe94b34 gta: 0x543b34] _ZNK18CTaskComplexFacial5CloneEv
+
+[adr: 0x94392b82 samp: 0xe11b82 gta: 0x4c0b82] _ZN16CPedIntelligence16FlushImmediatelyEb
+
+[adr: 0x94379264 samp: 0xdf8264 gta: 0x4a7264] _ZN4CPed8TeleportE7CVectorh
+
+[adr: 0x9360613a samp: 0x8513a gta: 0xff73413a] name not found
+
+[adr: 0x9362d2ae samp: 0xac2ae gta: 0xff75b2ae] name not found
+
+[adr: 0x9360b596 samp: 0x8a596 gta: 0xff739596] name not found
+
+[adr: 0x942c8a36 samp: 0xd47a36 gta: 0x3f6a36] _Z4IdlePvb
+
+[adr: 0x942c8f4c samp: 0xd47f4c gta: 0x3f6f4c] _Z15AppEventHandler7RsEventPv
+
+[adr: 0x943a638c samp: 0xe2538c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0x944b6a4c samp: 0xf35a4c gta: 0x5e4a4c] _Z11DoGameStatev
+
+[adr: 0x944b71fc samp: 0xf361fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0x9413df22 samp: 0xbbcf22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0x9414c170 samp: 0xbcb170 gta: 0x27a170] name not found
+
+[adr: 0xf064ca64 samp: 0x5d0cba64 gta: 0x5c77aa64] name not found
+
+[adr: 0xf0603afe samp: 0x5d082afe gta: 0x5c731afe] name not found
+
+/storage/emulated/0/Android/data/com.desery.cr/files/crash_log.log
+register states:
+r0: 0xC370D000, r1: 0x943BF44C, r2: 0x0, r3: 0x1
+r4: 0xc370d000, r5: 0xb710c180, r6: 0x0, r7: 0x96043f80
+r8: 0xffffffff, r9: 0x0, sl: 0xb710c184, fp: 0x947528fc
+ip: 0x943c97d8, sp: 0x96043f78, lr: 0x94299b35, pc: 0x9422cb1a
+1: libGTASA.so + 0x4D6B1A
+2: libGTASA.so + 0x543B35
+1: libsamp.so + 0xCAAB1A
+2: libsamp.so + 0xD17B35
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xec4dcb28 samp: 0x58f5ab28 gta: 0x58786b28] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0xf05fd754 samp: 0x5d07b754 gta: 0x5c8a7754] name not found
+
+[adr: 0x9422cb1a samp: 0xcaab1a gta: 0x4d6b1a] _ZN12CTaskComplexC2Ev
+
+[adr: 0x94299b34 samp: 0xd17b34 gta: 0x543b34] _ZNK18CTaskComplexFacial5CloneEv
+
+[adr: 0x94216b82 samp: 0xc94b82 gta: 0x4c0b82] _ZN16CPedIntelligence16FlushImmediatelyEb
+
+[adr: 0x941fd264 samp: 0xc7b264 gta: 0x4a7264] _ZN4CPed8TeleportE7CVectorh
+
+[adr: 0x9360713a samp: 0x8513a gta: 0xff8b113a] name not found
+
+[adr: 0x9362e2ae samp: 0xac2ae gta: 0xff8d82ae] name not found
+
+[adr: 0x9360c596 samp: 0x8a596 gta: 0xff8b6596] name not found
+
+[adr: 0x9414ca36 samp: 0xbcaa36 gta: 0x3f6a36] _Z4IdlePvb
+
+[adr: 0x9414cf4c samp: 0xbcaf4c gta: 0x3f6f4c] _Z15AppEventHandler7RsEventPv
+
+[adr: 0x9422a38c samp: 0xca838c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0x9433aa4c samp: 0xdb8a4c gta: 0x5e4a4c] _Z11DoGameStatev
+
+[adr: 0x9433b1fc samp: 0xdb91fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0x93fc1f22 samp: 0xa3ff22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0x93fd0170 samp: 0xa4e170 gta: 0x27a170] name not found
+
+[adr: 0xf064ca64 samp: 0x5d0caa64 gta: 0x5c8f6a64] name not found
+
+[adr: 0xf0603afe samp: 0x5d081afe gta: 0x5c8adafe] name not found
+
+/storage/emulated/0/Android/data/com.desery.cr/files/crash_log.log
+register states:
+r0: 0x0, r1: 0x6E31, r2: 0x6, r3: 0x8C3D5F38
+r4: 0x8c3d5f48, r5: 0x8c3d5f30, r6: 0x6d64, r7: 0x16b
+r8: 0x0, r9: 0xffffffff, sl: 0x8c3d5f38, fp: 0x8d72b054
+ip: 0x6e31, sp: 0x8c3d5f18, lr: 0xe62bab3f, pc: 0xe62bab52
+1: libGTASA.so + 0x59266B52
+2: libGTASA.so + 0x59266B3F
+1: libsamp.so + 0x59C39B52
+2: libsamp.so + 0x59C39B3F
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xe62b5754 samp: 0x59c34754 gta: 0x59261754] name not found
+
+[adr: 0xe62bab52 samp: 0x59c39b52 gta: 0x59266b52] abort
+
+[adr: 0xe62badf6 samp: 0x59c39df6 gta: 0x59266df6] __assert2
+
+[adr: 0x8c747716 samp: 0xc6716 gta: 0xff6f3716] name not found
+
+[adr: 0x8c71ebee samp: 0x9dbee gta: 0xff6cabee] name not found
+
+[adr: 0x8c708258 samp: 0x87258 gta: 0xff6b4258] name not found
+
+[adr: 0x8c713096 samp: 0x92096 gta: 0xff6bf096] name not found
+
+[adr: 0x8d2bd5c0 samp: 0xc3c5c0 gta: 0x2695c0] _Z13ProcessEventsb
+
+[adr: 0x8d2bdbba samp: 0xc3cbba gta: 0x269bba] _Z14NVEventAppMainiPPc
+
+[adr: 0x8d2d0522 samp: 0xc4f522 gta: 0x27c522] name not found
+
+[adr: 0x8d2ce170 samp: 0xc4d170 gta: 0x27a170] name not found
+
+[adr: 0xe6304a64 samp: 0x59c83a64 gta: 0x592b0a64] name not found
+
+[adr: 0xe62bbafe samp: 0x59c3aafe gta: 0x59267afe] name not found
+
+/storage/emulated/0/Android/data/com.desery.cr/files/crash_log.log
+register states:
+r0: 0x0, r1: 0xEA82C6CC, r2: 0x9418D000, r3: 0x20000
+r4: 0x90837a58, r5: 0x0, r6: 0x0, r7: 0x908379f8
+r8: 0x90837e30, r9: 0x90837a84, sl: 0x90837b2c, fp: 0xe6832540
+ip: 0x0, sp: 0x908379d8, lr: 0xac83a6eb, pc: 0xac83f714
+1: libGTASA.so + 0x1FABC714
+2: libGTASA.so + 0x1FAB76EB
+1: libsamp.so + 0x203BF714
+2: libsamp.so + 0x203BA6EB
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xe84b7b28 samp: 0x5c037b28 gta: 0x5b734b28] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0xe62b5754 samp: 0x59e35754 gta: 0x59532754] name not found
+
+[adr: 0xac83f714 samp: 0x203bf714 gta: 0x1fabc714] name not found
+
+[adr: 0xac83a6ea samp: 0x203ba6ea gta: 0x1fab76ea] name not found
+
+[adr: 0xac7aa434 samp: 0x2032a434 gta: 0x1fa27434] name not found
+
+[adr: 0xac7b0baa samp: 0x20330baa gta: 0x1fa2dbaa] name not found
+
+[adr: 0xabc22164 samp: 0x1f7a2164 gta: 0x1ee9f164] name not found
+
+[adr: 0xabc21c64 samp: 0x1f7a1c64 gta: 0x1ee9ec64] name not found
+
+[adr: 0xabc325be samp: 0x1f7b25be gta: 0x1eeaf5be] name not found
+
+[adr: 0xabc31d7a samp: 0x1f7b1d7a gta: 0x1eeaed7a] name not found
+
+[adr: 0xabc32ad4 samp: 0x1f7b2ad4 gta: 0x1eeafad4] name not found
+
+[adr: 0xabc28b6a samp: 0x1f7a8b6a gta: 0x1eea5b6a] name not found
+
+[adr: 0xabc28932 samp: 0x1f7a8932 gta: 0x1eea5932] name not found
+
+[adr: 0xabbf3c02 samp: 0x1f773c02 gta: 0x1ee70c02] glTexImage2D
+
+[adr: 0x8cf53606 samp: 0xad3606 gta: 0x1d0606] _Z23RQ_Command_rqTextureMipRPc
+
+[adr: 0x8cf55240 samp: 0xad5240 gta: 0x1d2240] _Z14GraphicsThreadPv
+
+[adr: 0x8cfeef22 samp: 0xb6ef22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0x8cffd170 samp: 0xb7d170 gta: 0x27a170] name not found
+
+[adr: 0xe6304a64 samp: 0x59e84a64 gta: 0x59581a64] name not found
+
+[adr: 0xe62bbafe samp: 0x59e3bafe gta: 0x59538afe] name not found
+
+/storage/emulated/0/Android/data/com.desery.cr/files/crash_log.log
+register states:
+r0: 0xBC698000, r1: 0x8D3CE418, r2: 0x0, r3: 0x1
+r4: 0xbc684480, r5: 0xffffffff, r6: 0xbc684480, r7: 0x8e58af20
+r8: 0x0, r9: 0xad582184, sl: 0xad5821a4, fp: 0x8d7618fc
+ip: 0x8d3d907c, sp: 0x8e58af10, lr: 0x8d2a601f, pc: 0x8d23bb02
+1: libGTASA.so + 0x4D6B02
+2: libGTASA.so + 0x54101F
+1: libsamp.so + 0xA7BB02
+2: libsamp.so + 0xAE601F
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xe84b7b28 samp: 0x5bcf7b28 gta: 0x5b752b28] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0xe62b5754 samp: 0x59af5754 gta: 0x59550754] name not found
+
+[adr: 0x8d23bb02 samp: 0xa7bb02 gta: 0x4d6b02] _ZN11CTaskSimpleC2Ev
+
+[adr: 0x8d2a601e samp: 0xae601e gta: 0x54101e] _ZN18CTaskComplexFacial17CreateNextSubTaskEP4CPed
+
+[adr: 0x8d298dce samp: 0xad8dce gta: 0x533dce] _ZN12CTaskManager14SetNextSubTaskEP5CTask
+
+[adr: 0x8d298fa4 samp: 0xad8fa4 gta: 0x533fa4] _ZN12CTaskManager11ManageTasksEv
+
+[adr: 0x8d207a82 samp: 0xa47a82 gta: 0x4a2a82] _ZN4CPed14ProcessControlEv
+
+[adr: 0x8d2298fa samp: 0xa698fa gta: 0x4c48fa] _ZN10CPlayerPed14ProcessControlEv
+
+[adr: 0x8d18c986 samp: 0x9cc986 gta: 0x427986] _ZN6CWorld7ProcessEv
+
+[adr: 0x8c84a714 samp: 0x8a714 gta: 0xffae5714] name not found
+
+[adr: 0x8d15ba36 samp: 0x99ba36 gta: 0x3f6a36] _Z4IdlePvb
+
+[adr: 0x8d15bf4c samp: 0x99bf4c gta: 0x3f6f4c] _Z15AppEventHandler7RsEventPv
+
+[adr: 0x8d23938c samp: 0xa7938c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0x8d349a4c samp: 0xb89a4c gta: 0x5e4a4c] _Z11DoGameStatev
+
+[adr: 0x8d34a1fc samp: 0xb8a1fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0x8cfd0f22 samp: 0x810f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0x8cfdf170 samp: 0x81f170 gta: 0x27a170] name not found
+
+[adr: 0xe6304a64 samp: 0x59b44a64 gta: 0x5959fa64] name not found
+
+[adr: 0xe62bbafe samp: 0x59afbafe gta: 0x59556afe] name not found
+
+/storage/emulated/0/Android/data/com.desery.cr/files/crash_log.log
+register states:
+r0: 0xC87D2000, r1: 0x99A8544C, r2: 0x0, r3: 0x1
+r4: 0xc87d2000, r5: 0xbc469180, r6: 0x0, r7: 0x9a90a980
+r8: 0xffffffff, r9: 0x0, sl: 0xbc469184, fp: 0xf0596a50
+ip: 0x99a8f7d8, sp: 0x9a90a978, lr: 0x9995fb35, pc: 0x998f2b1a
+1: libGTASA.so + 0x4D6B1A
+2: libGTASA.so + 0x543B35
+1: libsamp.so + 0xAF0B1A
+2: libsamp.so + 0xB5DB35
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xf3063b28 samp: 0x5a261b28 gta: 0x59c47b28] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0xf37f8754 samp: 0x5a9f6754 gta: 0x5a3dc754] name not found
+
+[adr: 0x998f2b1a samp: 0xaf0b1a gta: 0x4d6b1a] _ZN12CTaskComplexC2Ev
+
+[adr: 0x9995fb34 samp: 0xb5db34 gta: 0x543b34] _ZNK18CTaskComplexFacial5CloneEv
+
+[adr: 0x998dcb82 samp: 0xadab82 gta: 0x4c0b82] _ZN16CPedIntelligence16FlushImmediatelyEb
+
+[adr: 0x998c3264 samp: 0xac1264 gta: 0x4a7264] _ZN4CPed8TeleportE7CVectorh
+
+[adr: 0x98e8713a samp: 0x8513a gta: 0xffa6b13a] name not found
+
+[adr: 0x98ead0be samp: 0xab0be gta: 0xffa910be] name not found
+
+[adr: 0x98eaaf10 samp: 0xa8f10 gta: 0xffa8ef10] name not found
+
+[adr: 0x98eae22e samp: 0xac22e gta: 0xffa9222e] name not found
+
+[adr: 0x98e8c596 samp: 0x8a596 gta: 0xffa70596] name not found
+
+[adr: 0x99812a36 samp: 0xa10a36 gta: 0x3f6a36] _Z4IdlePvb
+
+[adr: 0x99812f4c samp: 0xa10f4c gta: 0x3f6f4c] _Z15AppEventHandler7RsEventPv
+
+[adr: 0x998f038c samp: 0xaee38c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0x99a00a4c samp: 0xbfea4c gta: 0x5e4a4c] _Z11DoGameStatev
+
+[adr: 0x99a011fc samp: 0xbff1fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0x99687f22 samp: 0x885f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0x99696170 samp: 0x894170 gta: 0x27a170] name not found
+
+[adr: 0xf3847a64 samp: 0x5aa45a64 gta: 0x5a42ba64] name not found
+
+[adr: 0xf37feafe samp: 0x5a9fcafe gta: 0x5a3e2afe] name not found
+
+/storage/emulated/0/Android/data/com.desery.cr/files/crash_log.log
+register states:
+r0: 0x0, r1: 0x6D39, r2: 0x6, r3: 0x989BBF38
+r4: 0x989bbf48, r5: 0x989bbf30, r6: 0x6ca0, r7: 0x16b
+r8: 0x0, r9: 0xffffffff, sl: 0x989bbf38, fp: 0x99831054
+ip: 0x6d39, sp: 0x989bbf18, lr: 0xf37fdb3f, pc: 0xf37fdb52
+1: libGTASA.so + 0x5A6A3B52
+2: libGTASA.so + 0x5A6A3B3F
+1: libsamp.so + 0x5ACFAB52
+2: libsamp.so + 0x5ACFAB3F
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xf37f8754 samp: 0x5acf5754 gta: 0x5a69e754] name not found
+
+[adr: 0xf37fdb52 samp: 0x5acfab52 gta: 0x5a6a3b52] abort
+
+[adr: 0xf37fddf6 samp: 0x5acfadf6 gta: 0x5a6a3df6] __assert2
+
+[adr: 0x98bc9716 samp: 0xc6716 gta: 0xffa6f716] name not found
+
+[adr: 0x98ba0bee samp: 0x9dbee gta: 0xffa46bee] name not found
+
+[adr: 0x98b8a258 samp: 0x87258 gta: 0xffa30258] name not found
+
+[adr: 0x98b95096 samp: 0x92096 gta: 0xffa3b096] name not found
+
+[adr: 0x993c3308 samp: 0x8c0308 gta: 0x269308] _Z13ProcessEventsb
+
+[adr: 0x993c3dea samp: 0x8c0dea gta: 0x269dea] _Z14NVEventAppMainiPPc
+
+[adr: 0x993d6522 samp: 0x8d3522 gta: 0x27c522] name not found
+
+[adr: 0x993d4170 samp: 0x8d1170 gta: 0x27a170] name not found
+
+[adr: 0xf3847a64 samp: 0x5ad44a64 gta: 0x5a6eda64] name not found
+
+[adr: 0xf37feafe samp: 0x5acfbafe gta: 0x5a6a4afe] name not found
+
+/storage/emulated/0/Android/data/com.desery.cr/files/crash_log.log
+register states:
+r0: 0xEBBD1000, r1: 0x99A2944C, r2: 0x0, r3: 0x1
+r4: 0xebbd1000, r5: 0xc6ca4180, r6: 0x0, r7: 0x9b18a980
+r8: 0xffffffff, r9: 0x0, sl: 0xc6ca4184, fp: 0xf05a0590
+ip: 0x99a337d8, sp: 0x9b18a978, lr: 0x99903b35, pc: 0x99896b1a
+1: libGTASA.so + 0x4D6B1A
+2: libGTASA.so + 0x543B35
+1: libsamp.so + 0xE53B1A
+2: libsamp.so + 0xEC0B35
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xf3063b28 samp: 0x5a620b28 gta: 0x59ca3b28] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0xf37f8754 samp: 0x5adb5754 gta: 0x5a438754] name not found
+
+[adr: 0x99896b1a samp: 0xe53b1a gta: 0x4d6b1a] _ZN12CTaskComplexC2Ev
+
+[adr: 0x99903b34 samp: 0xec0b34 gta: 0x543b34] _ZNK18CTaskComplexFacial5CloneEv
+
+[adr: 0x99880b82 samp: 0xe3db82 gta: 0x4c0b82] _ZN16CPedIntelligence16FlushImmediatelyEb
+
+[adr: 0x99867264 samp: 0xe24264 gta: 0x4a7264] _ZN4CPed8TeleportE7CVectorh
+
+[adr: 0x98ac813a samp: 0x8513a gta: 0xff70813a] name not found
+
+[adr: 0x98aee0be samp: 0xab0be gta: 0xff72e0be] name not found
+
+[adr: 0x98aebf10 samp: 0xa8f10 gta: 0xff72bf10] name not found
+
+[adr: 0x98aef22e samp: 0xac22e gta: 0xff72f22e] name not found
+
+[adr: 0x98acd596 samp: 0x8a596 gta: 0xff70d596] name not found
+
+[adr: 0x997b6a36 samp: 0xd73a36 gta: 0x3f6a36] _Z4IdlePvb
+
+[adr: 0x997b6f4c samp: 0xd73f4c gta: 0x3f6f4c] _Z15AppEventHandler7RsEventPv
+
+[adr: 0x9989438c samp: 0xe5138c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0x999a4a4c samp: 0xf61a4c gta: 0x5e4a4c] _Z11DoGameStatev
+
+[adr: 0x999a51fc samp: 0xf621fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0x9962bf22 samp: 0xbe8f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0x9963a170 samp: 0xbf7170 gta: 0x27a170] name not found
+
+[adr: 0xf3847a64 samp: 0x5ae04a64 gta: 0x5a487a64] name not found
+
+[adr: 0xf37feafe samp: 0x5adbbafe gta: 0x5a43eafe] name not found
+
+/storage/emulated/0/Android/data/com.desery.cr/files/crash_log.log
+register states:
+r0: 0x0, r1: 0xFFFFFFFF, r2: 0xFFFFFFFF, r3: 0x0
+r4: 0x9253e0c0, r5: 0x0, r6: 0x9253e0c0, r7: 0x96eb57c0
+r8: 0x0, r9: 0x96eb5aba, sl: 0x24, fp: 0x968a08fc
+ip: 0x965178a0, sp: 0x96eb57b0, lr: 0x9628f041, pc: 0x9628f0cc
+1: libGTASA.so + 0x3EB0CC
+2: libGTASA.so + 0x3EB041
+1: libsamp.so + 0xBCD0CC
+2: libsamp.so + 0xBCD041
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xf0dd5b28 samp: 0x5b713b28 gta: 0x5af31b28] _ZN3art11SignalChain7HandlerEiP7siginfoPv
+
+[adr: 0xf14f5754 samp: 0x5be33754 gta: 0x5b651754] name not found
+
+[adr: 0x9628f0cc samp: 0xbcd0cc gta: 0x3eb0cc] _ZN7CEntity19HasPreRenderEffectsEv
+
+[adr: 0x9628f040 samp: 0xbcd040 gta: 0x3eb040] _ZN7CEntity21SetModelIndexNoCreateEj
+
+[adr: 0x9628f01a samp: 0xbcd01a gta: 0x3eb01a] _ZN7CEntity13SetModelIndexEj
+
+[adr: 0x96343ae8 samp: 0xc81ae8 gta: 0x49fae8] _ZN4CPed13SetModelIndexEj
+
+[adr: 0x9574753a samp: 0x8553a gta: 0xff8a353a] name not found
+
+[adr: 0x9575870c samp: 0x9670c gta: 0xff8b470c] name not found
+
+[adr: 0x9576dc08 samp: 0xabc08 gta: 0xff8c9c08] name not found
+
+[adr: 0x95773ae6 samp: 0xb1ae6 gta: 0xff8cfae6] name not found
+
+[adr: 0x957bb5d4 samp: 0xf95d4 gta: 0xff9175d4] name not found
+
+[adr: 0x957bb1c6 samp: 0xf91c6 gta: 0xff9171c6] name not found
+
+[adr: 0x957b82ae samp: 0xf62ae gta: 0xff9142ae] name not found
+
+[adr: 0x9576e42a samp: 0xac42a gta: 0xff8ca42a] name not found
+
+[adr: 0x9576e19c samp: 0xac19c gta: 0xff8ca19c] name not found
+
+[adr: 0x9574c596 samp: 0x8a596 gta: 0xff8a8596] name not found
+
+[adr: 0x9629aa36 samp: 0xbd8a36 gta: 0x3f6a36] _Z4IdlePvb
+
+[adr: 0x9629af4c samp: 0xbd8f4c gta: 0x3f6f4c] _Z15AppEventHandler7RsEventPv
+
+[adr: 0x9637838c samp: 0xcb638c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0x96488a4c samp: 0xdc6a4c gta: 0x5e4a4c] _Z11DoGameStatev
+
+[adr: 0x964891fc samp: 0xdc71fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0x9610ff22 samp: 0xa4df22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0x9611e170 samp: 0xa5c170 gta: 0x27a170] name not found
+
+[adr: 0xf1544a64 samp: 0x5be82a64 gta: 0x5b6a0a64] name not found
+
+[adr: 0xf14fbafe samp: 0x5be39afe gta: 0x5b657afe] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x0, r1: 0x2, r2: 0x96, r3: 0xDD0A5020
+r4: 0xb9800f78, r5: 0x0, r6: 0x0, r7: 0xb6359d08
+r8: 0xb28c50c0, r9: 0x0, sl: 0x1, fp: 0x0
+ip: 0x80, sp: 0xb6359ca8, lr: 0xb7377cf3, pc: 0xb7377f1a
+1: libGTASA.so + 0x1E7F1A
+2: libGTASA.so + 0x1E7CF3
+1: libsamp.so + 0xE11F1A
+2: libsamp.so + 0xE11CF3
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x7cc500e samp: 0x5175f00e gta: 0x50b3500e] name not found
+
+[adr: 0xf01f99ec samp: 0x39c939ec gta: 0x390699ec] name not found
+
+[adr: 0xb7377f1a samp: 0xe11f1a gta: 0x1e7f1a] _ZN15TextureDatabase9LoadEntryEPcb
+
+[adr: 0xb73781a0 samp: 0xe121a0 gta: 0x1e81a0] _ZN15TextureDatabase11LoadEntriesEbb
+
+[adr: 0xb737a974 samp: 0xe14974 gta: 0x1ea974] _ZN22TextureDatabaseRuntime4LoadEPKcb21TextureDatabaseFormat
+
+[adr: 0xb668d89c samp: 0x12789c gta: 0xff4fd89c] _Z25InitialiseRenderWare_hookv
+
+[adr: 0xb75ff562 samp: 0x1099562 gta: 0x46f562] _Z12Initialise3DPv
+
+[adr: 0xb7586fc2 samp: 0x1020fc2 gta: 0x3f6fc2] _Z15AppEventHandler7RsEventPv
+
+[adr: 0xb766438c samp: 0x10fe38c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0xb77753e6 samp: 0x120f3e6 gta: 0x5e53e6] _Z21OS_ApplicationStartupiiiPPKc
+
+[adr: 0xb73f9d7a samp: 0xe93d7a gta: 0x269d7a] _Z14NVEventAppMainiPPc
+
+[adr: 0xb740c522 samp: 0xea6522 gta: 0x27c522] name not found
+
+[adr: 0xb740a170 samp: 0xea4170 gta: 0x27a170] name not found
+
+[adr: 0xf024711c samp: 0x39ce111c gta: 0x390b711c] name not found
+
+[adr: 0xf01ffc0e samp: 0x39c99c0e gta: 0x3906fc0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x16A5, r1: 0xB4768400, r2: 0xB96BE800, r3: 0xC08B3800
+r4: 0xb96be800, r5: 0xd3968800, r6: 0x16a5, r7: 0xb6347048
+r8: 0x0, r9: 0xb4768400, sl: 0x23c, fp: 0xb96be800
+ip: 0x17, sp: 0xb6347008, lr: 0x23c, pc: 0xb71af1b6
+1: libGTASA.so + 0x1EA1B6
+2: libGTASA.so + 0x4903B23C
+1: libsamp.so + 0xE101B6
+2: libsamp.so + 0x49C6123C
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x7cc500e samp: 0x5192600e gta: 0x50d0000e] name not found
+
+[adr: 0xf01f99ec samp: 0x39e5a9ec gta: 0x392349ec] name not found
+
+[adr: 0xb71af1b6 samp: 0xe101b6 gta: 0x1ea1b6] _ZN22TextureDatabaseRuntime11SortEntriesEb
+
+[adr: 0xb71af9a2 samp: 0xe109a2 gta: 0x1ea9a2] _ZN22TextureDatabaseRuntime4LoadEPKcb21TextureDatabaseFormat
+
+[adr: 0xb64c698c samp: 0x12798c gta: 0xff50198c] _Z25InitialiseRenderWare_hookv
+
+[adr: 0xb7434562 samp: 0x1095562 gta: 0x46f562] _Z12Initialise3DPv
+
+[adr: 0xb73bbfc2 samp: 0x101cfc2 gta: 0x3f6fc2] _Z15AppEventHandler7RsEventPv
+
+[adr: 0xb749938c samp: 0x10fa38c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0xb75aa3e6 samp: 0x120b3e6 gta: 0x5e53e6] _Z21OS_ApplicationStartupiiiPPKc
+
+[adr: 0xb722ed7a samp: 0xe8fd7a gta: 0x269d7a] _Z14NVEventAppMainiPPc
+
+[adr: 0xb7241522 samp: 0xea2522 gta: 0x27c522] name not found
+
+[adr: 0xb723f170 samp: 0xea0170 gta: 0x27a170] name not found
+
+[adr: 0xf024711c samp: 0x39ea811c gta: 0x3928211c] name not found
+
+[adr: 0xf01ffc0e samp: 0x39e60c0e gta: 0x3923ac0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x0, r1: 0xE6EE8000, r2: 0x0, r3: 0xB471FF00
+r4: 0xe6ee8000, r5: 0x0, r6: 0x0, r7: 0xb3735130
+r8: 0xb471ff0e, r9: 0xb471ff00, sl: 0xb471ff10, fp: 0xb7461e40
+ip: 0xb73c96f0, sp: 0xb3735128, lr: 0xb701f937, pc: 0xb6fbd05c
+1: libGTASA.so + 0x26705C
+2: libGTASA.so + 0x2C9937
+1: libsamp.so + 0xAF505C
+2: libsamp.so + 0xB57937
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x7cc500e samp: 0x517fd00e gta: 0x50f6f00e] name not found
+
+[adr: 0xf01f99ec samp: 0x39d319ec gta: 0x394a39ec] name not found
+
+[adr: 0xb6fbd05c samp: 0xaf505c gta: 0x26705c] _Z18OS_FileSetPositionPvi
+
+[adr: 0xb701f936 samp: 0xb57936 gta: 0x2c9936] _Z14CdStreamThreadPv
+
+[adr: 0xb6fc1f22 samp: 0xaf9f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb6fd0170 samp: 0xb08170 gta: 0x27a170] name not found
+
+[adr: 0xf024711c samp: 0x39d7f11c gta: 0x394f111c] name not found
+
+[adr: 0xf01ffc0e samp: 0x39d37c0e gta: 0x394a9c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x0, r1: 0xB76DE240, r2: 0x1C77, r3: 0xB2516580
+r4: 0x35, r5: 0x6, r6: 0x4, r7: 0xb1fecf20
+r8: 0xb76de240, r9: 0x4, sl: 0xb1fecee0, fp: 0x0
+ip: 0xb73c0810, sp: 0xb1fecec8, lr: 0xb6f35015, pc: 0xb718f1c2
+1: libGTASA.so + 0x4431C2
+2: libGTASA.so + 0x1E9015
+1: libsamp.so + 0xF821C2
+2: libsamp.so + 0xD28015
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x7cc500e samp: 0x51ab800e gta: 0x50f7900e] name not found
+
+[adr: 0xf01f99ec samp: 0x39fec9ec gta: 0x394ad9ec] name not found
+
+[adr: 0xb718f1c2 samp: 0xf821c2 gta: 0x4431c2] _ZN6CRadar19StreamRadarSectionsEii
+
+[adr: 0xb7020b64 samp: 0xe13b64 gta: 0x2d4b64] _ZN10CStreaming9LoadSceneERK7CVector
+
+[adr: 0xb7095854 samp: 0xe88854 gta: 0x349854] _ZN14CRunningScript23ProcessCommands900To999Ei
+
+[adr: 0xb70773fe samp: 0xe6a3fe gta: 0x32b3fe] _ZN14CRunningScript7ProcessEv
+
+[adr: 0xb70771b0 samp: 0xe6a1b0 gta: 0x32b1b0] _ZN11CTheScripts7ProcessEv
+
+[adr: 0xb713f7ea samp: 0xf327ea gta: 0x3f37ea] _ZN5CGame10InitialiseEPKc
+
+[adr: 0xb7142ef8 samp: 0xf35ef8 gta: 0x3f6ef8] _Z14InitialiseGamev
+
+[adr: 0xb733098e samp: 0x112398e gta: 0x5e498e] _Z11DoGameStatev
+
+[adr: 0xb73311fc samp: 0x11241fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb6fb7f22 samp: 0xdaaf22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb6fc6170 samp: 0xdb9170 gta: 0x27a170] name not found
+
+[adr: 0xf024711c samp: 0x3a03a11c gta: 0x394fb11c] name not found
+
+[adr: 0xf01ffc0e samp: 0x39ff2c0e gta: 0x394b3c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x0, r1: 0xB76DE240, r2: 0x1C77, r3: 0xB20B82C0
+r4: 0x35, r5: 0x6, r6: 0x4, r7: 0xb0ad9f20
+r8: 0xb76de240, r9: 0x4, sl: 0xb0ad9ee0, fp: 0x0
+ip: 0xb73c0810, sp: 0xb0ad9ec8, lr: 0xb6f35015, pc: 0xb718f1c2
+1: libGTASA.so + 0x4431C2
+2: libGTASA.so + 0x1E9015
+1: libsamp.so + 0xCBF1C2
+2: libsamp.so + 0xA65015
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x7cc500e samp: 0x517f500e gta: 0x50f7900e] name not found
+
+[adr: 0xf01f99ec samp: 0x39d299ec gta: 0x394ad9ec] name not found
+
+[adr: 0xb718f1c2 samp: 0xcbf1c2 gta: 0x4431c2] _ZN6CRadar19StreamRadarSectionsEii
+
+[adr: 0xb7020b64 samp: 0xb50b64 gta: 0x2d4b64] _ZN10CStreaming9LoadSceneERK7CVector
+
+[adr: 0xb7095854 samp: 0xbc5854 gta: 0x349854] _ZN14CRunningScript23ProcessCommands900To999Ei
+
+[adr: 0xb70773fe samp: 0xba73fe gta: 0x32b3fe] _ZN14CRunningScript7ProcessEv
+
+[adr: 0xb70771b0 samp: 0xba71b0 gta: 0x32b1b0] _ZN11CTheScripts7ProcessEv
+
+[adr: 0xb713f7ea samp: 0xc6f7ea gta: 0x3f37ea] _ZN5CGame10InitialiseEPKc
+
+[adr: 0xb7142ef8 samp: 0xc72ef8 gta: 0x3f6ef8] _Z14InitialiseGamev
+
+[adr: 0xb733098e samp: 0xe6098e gta: 0x5e498e] _Z11DoGameStatev
+
+[adr: 0xb73311fc samp: 0xe611fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb6fb7f22 samp: 0xae7f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb6fc6170 samp: 0xaf6170 gta: 0x27a170] name not found
+
+[adr: 0xf024711c samp: 0x39d7711c gta: 0x394fb11c] name not found
+
+[adr: 0xf01ffc0e samp: 0x39d2fc0e gta: 0x394b3c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x1, r1: 0x1A, r2: 0xFE43117C, r3: 0x232
+r4: 0x0, r5: 0x95f, r6: 0x100, r7: 0xb4eaf010
+r8: 0x232, r9: 0x0, sl: 0x2, fp: 0xb63bc054
+ip: 0xb52e58d0, sp: 0xb4eaf000, lr: 0xb517b40f, pc: 0xb517b42c
+1: libGTASA.so + 0xFF49642C
+2: libGTASA.so + 0xFF49640F
+1: libsamp.so + 0x14B42C
+2: libsamp.so + 0x14B40F
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x5537300e gta: 0x546be00e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3bf0c9ec gta: 0x3b2579ec] name not found
+
+[adr: 0xb517b42c samp: 0x14b42c gta: 0xff49642c] _ZN4CGUI12OnTouchEventEibii
+
+[adr: 0xb5157aa6 samp: 0x127aa6 gta: 0xff472aa6] _Z15TouchEvent_hookiiii
+
+[adr: 0xb5162a26 samp: 0x132a26 gta: 0xff47da26] _Z24NVEventGetNextEvent_hookP7NVEventi
+
+[adr: 0xb5f4e5c0 samp: 0xf1e5c0 gta: 0x2695c0] _Z13ProcessEventsb
+
+[adr: 0xb5f4ebba samp: 0xf1ebba gta: 0x269bba] _Z14NVEventAppMainiPPc
+
+[adr: 0xb5f61522 samp: 0xf31522 gta: 0x27c522] name not found
+
+[adr: 0xb5f5f170 samp: 0xf2f170 gta: 0x27a170] name not found
+
+[adr: 0xf0f8a11c samp: 0x3bf5a11c gta: 0x3b2a511c] name not found
+
+[adr: 0xf0f42c0e samp: 0x3bf12c0e gta: 0x3b25dc0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x0, r1: 0xB63A34F0, r2: 0x200, r3: 0x3
+r4: 0x0, r5: 0x0, r6: 0x200, r7: 0xae534e88
+r8: 0xd2a1242c, r9: 0xb63a34f0, sl: 0xb63a34f0, fp: 0xe4dbc7a0
+ip: 0xb60be28c, sp: 0xae534e78, lr: 0xb5e3bf57, pc: 0xb5cb25e0
+1: libGTASA.so + 0x2675E0
+2: libGTASA.so + 0x3F0F57
+1: libsamp.so + 0xC9E5E0
+2: libsamp.so + 0xE27F57
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x5538f00e gta: 0x5495800e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3bf289ec gta: 0x3b4f19ec] name not found
+
+[adr: 0xb5cb25e0 samp: 0xc9e5e0 gta: 0x2675e0] _Z18OS_FileGetPositionPv
+
+[adr: 0xb5e3bf56 samp: 0xe27f56 gta: 0x3f0f56] _ZN8CFileMgr8ReadLineEjPci
+
+[adr: 0xb5e39f76 samp: 0xe25f76 gta: 0x3eef76] _ZN11CFileLoader8LoadLineEj
+
+[adr: 0xb5eb21ac samp: 0xe9e1ac gta: 0x4671ac] _ZN11CFileLoader15LoadObjectTypesEPKc
+
+[adr: 0xb5eb1af4 samp: 0xe9daf4 gta: 0x466af4] _ZN11CFileLoader9LoadLevelEPKc
+
+[adr: 0xb5e3e7c2 samp: 0xe2a7c2 gta: 0x3f37c2] _ZN5CGame10InitialiseEPKc
+
+[adr: 0xb5e41ef8 samp: 0xe2def8 gta: 0x3f6ef8] _Z14InitialiseGamev
+
+[adr: 0xb602f98e samp: 0x101b98e gta: 0x5e498e] _Z11DoGameStatev
+
+[adr: 0xb60301fc samp: 0x101c1fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb5cb6f22 samp: 0xca2f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb5cc5170 samp: 0xcb1170 gta: 0x27a170] name not found
+
+[adr: 0xf0f8a11c samp: 0x3bf7611c gta: 0x3b53f11c] name not found
+
+[adr: 0xf0f42c0e samp: 0x3bf2ec0e gta: 0x3b4f7c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB66EE2C0, r1: 0x869, r2: 0x0, r3: 0xB66EE280
+r4: 0xffffffff, r5: 0x0, r6: 0x859, r7: 0xafa7a048
+r8: 0x6, r9: 0xafa79ff0, sl: 0x0, fp: 0xafa79ff4
+ip: 0x0, sp: 0xafa79f38, lr: 0xb5f29717, pc: 0xb61a919c
+1: libGTASA.so + 0x46919C
+2: libGTASA.so + 0x1E9717
+1: libsamp.so + 0x109619C
+2: libsamp.so + 0xE16717
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x5529000e gta: 0x5466300e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3be299ec gta: 0x3b1fc9ec] name not found
+
+[adr: 0xb61a919c samp: 0x109619c gta: 0x46919c] _ZN11CFileLoader9LoadSceneEPKc
+
+[adr: 0xb61a6bc2 samp: 0x1093bc2 gta: 0x466bc2] _ZN11CFileLoader9LoadLevelEPKc
+
+[adr: 0xb61337c2 samp: 0x10207c2 gta: 0x3f37c2] _ZN5CGame10InitialiseEPKc
+
+[adr: 0xb6136ef8 samp: 0x1023ef8 gta: 0x3f6ef8] _Z14InitialiseGamev
+
+[adr: 0xb632498e samp: 0x121198e gta: 0x5e498e] _Z11DoGameStatev
+
+[adr: 0xb63251fc samp: 0x12121fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb5fabf22 samp: 0xe98f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb5fba170 samp: 0xea7170 gta: 0x27a170] name not found
+
+[adr: 0xf0f8a11c samp: 0x3be7711c gta: 0x3b24a11c] name not found
+
+[adr: 0xf0f42c0e samp: 0x3be2fc0e gta: 0x3b202c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB60012C0, r1: 0x869, r2: 0x0, r3: 0xB6001280
+r4: 0xffffffff, r5: 0x0, r6: 0x859, r7: 0xaf115048
+r8: 0x6, r9: 0xaf114ff0, sl: 0x0, fp: 0xaf114ff4
+ip: 0x0, sp: 0xaf114f38, lr: 0xb583c717, pc: 0xb5abc19c
+1: libGTASA.so + 0x46919C
+2: libGTASA.so + 0x1E9717
+1: libsamp.so + 0xB6219C
+2: libsamp.so + 0x8E2717
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x5544900e gta: 0x54d5000e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3bfe29ec gta: 0x3b8e99ec] name not found
+
+[adr: 0xb5abc19c samp: 0xb6219c gta: 0x46919c] _ZN11CFileLoader9LoadSceneEPKc
+
+[adr: 0xb5ab9bc2 samp: 0xb5fbc2 gta: 0x466bc2] _ZN11CFileLoader9LoadLevelEPKc
+
+[adr: 0xb5a467c2 samp: 0xaec7c2 gta: 0x3f37c2] _ZN5CGame10InitialiseEPKc
+
+[adr: 0xb5a49ef8 samp: 0xaefef8 gta: 0x3f6ef8] _Z14InitialiseGamev
+
+[adr: 0xb5c3798e samp: 0xcdd98e gta: 0x5e498e] _Z11DoGameStatev
+
+[adr: 0xb5c381fc samp: 0xcde1fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb58bef22 samp: 0x964f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb58cd170 samp: 0x973170 gta: 0x27a170] name not found
+
+[adr: 0xf0f8a11c samp: 0x3c03011c gta: 0x3b93711c] name not found
+
+[adr: 0xf0f42c0e samp: 0x3bfe8c0e gta: 0x3b8efc0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB63842F0, r1: 0x867, r2: 0x0, r3: 0xB6384280
+r4: 0xffffffff, r5: 0x0, r6: 0x84b, r7: 0xaf17a048
+r8: 0x8, r9: 0xaf179ff0, sl: 0x0, fp: 0xaf179ff4
+ip: 0x0, sp: 0xaf179f38, lr: 0xb5bbf717, pc: 0xb5e3f19c
+1: libGTASA.so + 0x46919C
+2: libGTASA.so + 0x1E9717
+1: libsamp.so + 0x10A619C
+2: libsamp.so + 0xE26717
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x5560a00e gta: 0x549cd00e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3c1a39ec gta: 0x3b5669ec] name not found
+
+[adr: 0xb5e3f19c samp: 0x10a619c gta: 0x46919c] _ZN11CFileLoader9LoadSceneEPKc
+
+[adr: 0xb5e3cbc2 samp: 0x10a3bc2 gta: 0x466bc2] _ZN11CFileLoader9LoadLevelEPKc
+
+[adr: 0xb5dc97c2 samp: 0x10307c2 gta: 0x3f37c2] _ZN5CGame10InitialiseEPKc
+
+[adr: 0xb5dccef8 samp: 0x1033ef8 gta: 0x3f6ef8] _Z14InitialiseGamev
+
+[adr: 0xb5fba98e samp: 0x122198e gta: 0x5e498e] _Z11DoGameStatev
+
+[adr: 0xb5fbb1fc samp: 0x12221fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb5c41f22 samp: 0xea8f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb5c50170 samp: 0xeb7170 gta: 0x27a170] name not found
+
+[adr: 0xf0f8a11c samp: 0x3c1f111c gta: 0x3b5b411c] name not found
+
+[adr: 0xf0f42c0e samp: 0x3c1a9c0e gta: 0x3b56cc0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB643E2A8, r1: 0x926, r2: 0x0, r3: 0xB643E280
+r4: 0xffffffff, r5: 0x0, r6: 0x91c, r7: 0xaedef048
+r8: 0x6, r9: 0xaedeeff0, sl: 0x0, fp: 0xaedeeff4
+ip: 0x0, sp: 0xaedeef38, lr: 0xb5c79717, pc: 0xb5ef919c
+1: libGTASA.so + 0x46919C
+2: libGTASA.so + 0x1E9717
+1: libsamp.so + 0xF1119C
+2: libsamp.so + 0xC91717
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x553bb00e gta: 0x5491300e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3bf549ec gta: 0x3b4ac9ec] name not found
+
+[adr: 0xb5ef919c samp: 0xf1119c gta: 0x46919c] _ZN11CFileLoader9LoadSceneEPKc
+
+[adr: 0xb5ef6bc2 samp: 0xf0ebc2 gta: 0x466bc2] _ZN11CFileLoader9LoadLevelEPKc
+
+[adr: 0xb5e837c2 samp: 0xe9b7c2 gta: 0x3f37c2] _ZN5CGame10InitialiseEPKc
+
+[adr: 0xb5e86ef8 samp: 0xe9eef8 gta: 0x3f6ef8] _Z14InitialiseGamev
+
+[adr: 0xb607498e samp: 0x108c98e gta: 0x5e498e] _Z11DoGameStatev
+
+[adr: 0xb60751fc samp: 0x108d1fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb5cfbf22 samp: 0xd13f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb5d0a170 samp: 0xd22170 gta: 0x27a170] name not found
+
+[adr: 0xf0f8a11c samp: 0x3bfa211c gta: 0x3b4fa11c] name not found
+
+[adr: 0xf0f42c0e samp: 0x3bf5ac0e gta: 0x3b4b2c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x0, r1: 0x4707, r2: 0xB5A0ED21, r3: 0xB5F8E9F4
+r4: 0xb11a9f08, r5: 0xa8748dec, r6: 0xb5fd127c, r7: 0xb11a9f00
+r8: 0xb5fd127c, r9: 0xb5293c20, sl: 0x0, fp: 0xb11a9ff4
+ip: 0xb5c96678, sp: 0xb11a9e88, lr: 0xb5a108ed, pc: 0xb5a0ed48
+1: libGTASA.so + 0x3EBD48
+2: libGTASA.so + 0x3ED8ED
+1: libsamp.so + 0xA74D48
+2: libsamp.so + 0xA768ED
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x5540900e gta: 0x54d8000e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3bfa29ec gta: 0x3b9199ec] name not found
+
+[adr: 0xb5a0ed48 samp: 0xa74d48 gta: 0x3ebd48] _ZNK7CEntity12GetBoundRectEv
+
+[adr: 0xb5a108ec samp: 0xa768ec gta: 0x3ed8ec] _ZN7CEntity3AddEv
+
+[adr: 0xb5a46444 samp: 0xaac444 gta: 0x423444] _ZN6CWorld3AddEP7CEntity
+
+[adr: 0xb5a8c2de samp: 0xaf22de gta: 0x4692de] _ZN11CFileLoader9LoadSceneEPKc
+
+[adr: 0xb5a89bc2 samp: 0xaefbc2 gta: 0x466bc2] _ZN11CFileLoader9LoadLevelEPKc
+
+[adr: 0xb5a167c2 samp: 0xa7c7c2 gta: 0x3f37c2] _ZN5CGame10InitialiseEPKc
+
+[adr: 0xb5a19ef8 samp: 0xa7fef8 gta: 0x3f6ef8] _Z14InitialiseGamev
+
+[adr: 0xb5c0798e samp: 0xc6d98e gta: 0x5e498e] _Z11DoGameStatev
+
+[adr: 0xb5c081fc samp: 0xc6e1fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb588ef22 samp: 0x8f4f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb589d170 samp: 0x903170 gta: 0x27a170] name not found
+
+[adr: 0xf0f8a11c samp: 0x3bff011c gta: 0x3b96711c] name not found
+
+[adr: 0xf0f42c0e samp: 0x3bfa8c0e gta: 0x3b91fc0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x438, r1: 0xFE43117C, r2: 0xFE43117C, r3: 0x0
+r4: 0x960, r5: 0x438, r6: 0xb66468fc, r7: 0xffbf1f68
+r8: 0x960, r9: 0x438, sl: 0x960, fp: 0xb5ed020d
+ip: 0xb62be2dc, sp: 0xffbf1ec0, lr: 0xb5ed02b5, pc: 0xb5ed03a6
+1: libGTASA.so + 0x2863A6
+2: libGTASA.so + 0x2862B5
+1: libsamp.so + 0xBC23A6
+2: libsamp.so + 0xBC22B5
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xf0f3c9ec samp: 0x3bc2e9ec gta: 0x3b2f29ec] name not found
+
+[adr: 0xb5ed03a6 samp: 0xbc23a6 gta: 0x2863a6] _ZN14CAdjustableHUD4DrawEv
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x438, r1: 0xFE43117C, r2: 0xFE43117C, r3: 0x0
+r4: 0x960, r5: 0x438, r6: 0xb63048fc, r7: 0xffbf1f68
+r8: 0x960, r9: 0x438, sl: 0x960, fp: 0xb5b8e20d
+ip: 0xb5f7c2dc, sp: 0xffbf1ec0, lr: 0xb5b8e2b5, pc: 0xb5b8e3a6
+1: libGTASA.so + 0x2863A6
+2: libGTASA.so + 0x2862B5
+1: libsamp.so + 0xB383A6
+2: libsamp.so + 0xB382B5
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xf0f3c9ec samp: 0x3bee69ec gta: 0x3b6349ec] name not found
+
+[adr: 0xb5b8e3a6 samp: 0xb383a6 gta: 0x2863a6] _ZN14CAdjustableHUD4DrawEv
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB5E6BB07, r1: 0xF4240, r2: 0x0, r3: 0x0
+r4: 0x42cc4388, r5: 0x363b, r6: 0xb5e6bb07, r7: 0xafb21108
+r8: 0xb62f87c8, r9: 0xb61ef0f8, sl: 0xb5f40074, fp: 0xb625c8fc
+ip: 0xb5ece5c4, sp: 0xafb21060, lr: 0xb64232f4, pc: 0xb64232bc
+1: libGTASA.so + 0xBC32BC
+2: libGTASA.so + 0xBC32F4
+1: libsamp.so + 0x12B42BC
+2: libsamp.so + 0x12B42F4
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x5523400e gta: 0x54b4300e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3bdcd9ec gta: 0x3b6dc9ec] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB6095B07, r1: 0xF4240, r2: 0x0, r3: 0x0
+r4: 0x42cc4388, r5: 0x311c, r6: 0xb6095b07, r7: 0xafc59108
+r8: 0xb65227c8, r9: 0xb64190f8, sl: 0xb616a074, fp: 0xb64868fc
+ip: 0xb60f85c4, sp: 0xafc59060, lr: 0xb66712f4, pc: 0xb66712bc
+1: libGTASA.so + 0xBE72BC
+2: libGTASA.so + 0xBE72F4
+1: libsamp.so + 0x14512BC
+2: libsamp.so + 0x14512F4
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x5518300e gta: 0x5491900e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3bd1c9ec gta: 0x3b4b29ec] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x1, r1: 0x3F3F90, r2: 0x1, r3: 0x0
+r4: 0x1, r5: 0x4, r6: 0x20, r7: 0xaffa1000
+r8: 0xb6068080, r9: 0xaffa1010, sl: 0xb6068124, fp: 0xb63848fc
+ip: 0xb5ff7114, sp: 0xaffa0f70, lr: 0xb5c0a6b3, pc: 0xb5c0d4dc
+1: libGTASA.so + 0x2854DC
+2: libGTASA.so + 0x2826B3
+1: libsamp.so + 0xB4A4DC
+2: libsamp.so + 0xB476B3
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x552e000e gta: 0x54a1b00e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3be799ec gta: 0x3b5b49ec] name not found
+
+[adr: 0xb5c0d4dc samp: 0xb4a4dc gta: 0x2854dc] _ZN14CAdjustableHUD13EnableButtonsEv
+
+[adr: 0xb5c22ade samp: 0xb5fade gta: 0x29aade] _ZN10MobileMenu6UpdateEv
+
+[adr: 0xb51ee47a samp: 0x12b47a gta: 0xff86647a] _Z19CGame__Process_hookv
+
+[adr: 0xb5d7ea36 samp: 0xcbba36 gta: 0x3f6a36] _Z4IdlePvb
+
+[adr: 0xb5d7ef4c samp: 0xcbbf4c gta: 0x3f6f4c] _Z15AppEventHandler7RsEventPv
+
+[adr: 0xb5e5c38c samp: 0xd9938c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0xb5f6ca4c samp: 0xea9a4c gta: 0x5e4a4c] _Z11DoGameStatev
+
+[adr: 0xb5f6d1fc samp: 0xeaa1fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb5bf3f22 samp: 0xb30f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb5c02170 samp: 0xb3f170 gta: 0x27a170] name not found
+
+[adr: 0xf0f8a11c samp: 0x3bec711c gta: 0x3b60211c] name not found
+
+[adr: 0xf0f42c0e samp: 0x3be7fc0e gta: 0x3b5bac0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x645F746E, r1: 0xB5D3500C, r2: 0x3E8, r3: 0xFE43117C
+r4: 0x0, r5: 0x0, r6: 0xb5d35074, r7: 0xafce5078
+r8: 0x0, r9: 0x1, sl: 0xb5d35074, fp: 0xb60518fc
+ip: 0xb5cc38bc, sp: 0xafce5068, lr: 0xb5a4db87, pc: 0xb58e1c8e
+1: libGTASA.so + 0x28CC8E
+2: libGTASA.so + 0x3F8B87
+1: libsamp.so + 0x91FC8E
+2: libsamp.so + 0xA8BB87
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0xa3a300e samp: 0x553e100e gta: 0x54d4e00e] name not found
+
+[adr: 0xf0f3c9ec samp: 0x3bf7a9ec gta: 0x3b8e79ec] name not found
+
+[adr: 0xb58e1c8e samp: 0x91fc8e gta: 0x28cc8e] _ZN4CHID12GetInputTypeEv
+
+[adr: 0xb5a4db86 samp: 0xa8bb86 gta: 0x3f8b86] _ZN4CPad10UpdatePadsEv
+
+[adr: 0xb50ed512 samp: 0x12b512 gta: 0xffa98512] _Z19CGame__Process_hookv
+
+[adr: 0xb5a4ba36 samp: 0xa89a36 gta: 0x3f6a36] _Z4IdlePvb
+
+[adr: 0xb5a4bf4c samp: 0xa89f4c gta: 0x3f6f4c] _Z15AppEventHandler7RsEventPv
+
+[adr: 0xb5b2938c samp: 0xb6738c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0xb5c39a4c samp: 0xc77a4c gta: 0x5e4a4c] _Z11DoGameStatev
+
+[adr: 0xb5c3a1fc samp: 0xc781fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb58c0f22 samp: 0x8fef22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb58cf170 samp: 0x90d170 gta: 0x27a170] name not found
+
+[adr: 0xf0f8a11c samp: 0x3bfc811c gta: 0x3b93511c] name not found
+
+[adr: 0xf0f42c0e samp: 0x3bf80c0e gta: 0x3b8edc0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x1, r1: 0x1A, r2: 0x436C7021, r3: 0x351
+r4: 0x0, r5: 0x950, r6: 0x100, r7: 0xb2ad8010
+r8: 0x351, r9: 0x0, sl: 0x2, fp: 0xb3fe5054
+ip: 0xb2f03c80, sp: 0xb2ad8000, lr: 0xb2d997bf, pc: 0xb2d997dc
+1: libGTASA.so + 0xFF48B7DC
+2: libGTASA.so + 0xFF48B7BF
+1: libsamp.so + 0x14B7DC
+2: libsamp.so + 0x14B7BF
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x5604b00e gta: 0x5538b00e] name not found
+
+[adr: 0xec2739ec samp: 0x396259ec gta: 0x389659ec] name not found
+
+[adr: 0xb2d997dc samp: 0x14b7dc gta: 0xff48b7dc] _ZN4CGUI12OnTouchEventEibii
+
+[adr: 0xb2d75e4a samp: 0x127e4a gta: 0xff467e4a] _Z15TouchEvent_hookiiii
+
+[adr: 0xb2d80dd6 samp: 0x132dd6 gta: 0xff472dd6] _Z24NVEventGetNextEvent_hookP7NVEventi
+
+[adr: 0xb3b775c0 samp: 0xf295c0 gta: 0x2695c0] _Z13ProcessEventsb
+
+[adr: 0xb3b77bba samp: 0xf29bba gta: 0x269bba] _Z14NVEventAppMainiPPc
+
+[adr: 0xb3b8a522 samp: 0xf3c522 gta: 0x27c522] name not found
+
+[adr: 0xb3b88170 samp: 0xf3a170 gta: 0x27a170] name not found
+
+[adr: 0xec2c111c samp: 0x3967311c gta: 0x389b311c] name not found
+
+[adr: 0xec279c0e samp: 0x3962bc0e gta: 0x3896bc0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x412, r1: 0x12, r2: 0x0, r3: 0x0
+r4: 0x0, r5: 0xac6f2048, r6: 0xff, r7: 0xac6f20a8
+r8: 0x0, r9: 0x1, sl: 0xb37b8074, fp: 0xb3ad48fc
+ip: 0xff, sp: 0xac6f2030, lr: 0xb3371c8b, pc: 0xb3371c9c
+1: libGTASA.so + 0x299C9C
+2: libGTASA.so + 0x299C8B
+1: libsamp.so + 0x9A7C9C
+2: libsamp.so + 0x9A7C8B
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x562cf00e gta: 0x55bc100e] name not found
+
+[adr: 0xec2739ec samp: 0x398a99ec gta: 0x3919b9ec] name not found
+
+[adr: 0xb3371c9c samp: 0x9a7c9c gta: 0x299c9c] _ZN10MobileMenu6RenderEv
+
+[adr: 0xb34cec6a samp: 0xb04c6a gta: 0x3f6c6a] _Z4IdlePvb
+
+[adr: 0xb34cef4c samp: 0xb04f4c gta: 0x3f6f4c] _Z15AppEventHandler7RsEventPv
+
+[adr: 0xb35ac38c samp: 0xbe238c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0xb36bca4c samp: 0xcf2a4c gta: 0x5e4a4c] _Z11DoGameStatev
+
+[adr: 0xb36bd1fc samp: 0xcf31fc gta: 0x5e51fc] _Z12MainGameFuncPv
+
+[adr: 0xb3343f22 samp: 0x979f22 gta: 0x26bf22] _Z12ANDRunThreadPv
+
+[adr: 0xb3352170 samp: 0x988170 gta: 0x27a170] name not found
+
+[adr: 0xec2c111c samp: 0x398f711c gta: 0x391e911c] name not found
+
+[adr: 0xec279c0e samp: 0x398afc0e gta: 0x391a1c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x272E, r1: 0xAD9E53C0, r2: 0xADC21A80, r3: 0xAEC9D740
+r4: 0xadc21a80, r5: 0xad9fa840, r6: 0x272e, r7: 0xb288d048
+r8: 0x0, r9: 0xad9e53c0, sl: 0x2435, fp: 0xadc21a80
+ip: 0x17, sp: 0xb288d008, lr: 0x2435, pc: 0xb36f51b6
+1: libGTASA.so + 0x1EA1B6
+2: libGTASA.so + 0x4CAF7435
+1: libsamp.so + 0xC891B6
+2: libsamp.so + 0x4D596435
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x5622d00e gta: 0x5578e00e] name not found
+
+[adr: 0xec2739ec samp: 0x398079ec gta: 0x38d689ec] name not found
+
+[adr: 0xb36f51b6 samp: 0xc891b6 gta: 0x1ea1b6] _ZN22TextureDatabaseRuntime11SortEntriesEb
+
+[adr: 0xb36f59a2 samp: 0xc899a2 gta: 0x1ea9a2] _ZN22TextureDatabaseRuntime4LoadEPKcb21TextureDatabaseFormat
+
+[adr: 0xb2b93b58 samp: 0x127b58 gta: 0xff688b58] _Z25InitialiseRenderWare_hookv
+
+[adr: 0xb397a562 samp: 0xf0e562 gta: 0x46f562] _Z12Initialise3DPv
+
+[adr: 0xb3901fc2 samp: 0xe95fc2 gta: 0x3f6fc2] _Z15AppEventHandler7RsEventPv
+
+[adr: 0xb39df38c samp: 0xf7338c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0xb3af03e6 samp: 0x10843e6 gta: 0x5e53e6] _Z21OS_ApplicationStartupiiiPPKc
+
+[adr: 0xb3774d7a samp: 0xd08d7a gta: 0x269d7a] _Z14NVEventAppMainiPPc
+
+[adr: 0xb3787522 samp: 0xd1b522 gta: 0x27c522] name not found
+
+[adr: 0xb3785170 samp: 0xd19170 gta: 0x27a170] name not found
+
+[adr: 0xec2c111c samp: 0x3985511c gta: 0x38db611c] name not found
+
+[adr: 0xec279c0e samp: 0x3980dc0e gta: 0x38d6ec0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x0, r1: 0x2, r2: 0x96, r3: 0xB635CD00
+r4: 0xb0d7f268, r5: 0x0, r6: 0x0, r7: 0xb296ed08
+r8: 0xadf2f0c0, r9: 0x0, sl: 0x1, fp: 0x0
+ip: 0x80, sp: 0xb296eca8, lr: 0xb35bccf3, pc: 0xb35bcf1a
+1: libGTASA.so + 0x1E7F1A
+2: libGTASA.so + 0x1E7CF3
+1: libsamp.so + 0xA8DF1A
+2: libsamp.so + 0xA8DCF3
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x5616a00e gta: 0x558c400e] name not found
+
+[adr: 0xec2739ec samp: 0x397449ec gta: 0x38e9e9ec] name not found
+
+[adr: 0xb35bcf1a samp: 0xa8df1a gta: 0x1e7f1a] _ZN15TextureDatabase9LoadEntryEPcb
+
+[adr: 0xb35bd1a0 samp: 0xa8e1a0 gta: 0x1e81a0] _ZN15TextureDatabase11LoadEntriesEbb
+
+[adr: 0xb35bf974 samp: 0xa90974 gta: 0x1ea974] _ZN22TextureDatabaseRuntime4LoadEPKcb21TextureDatabaseFormat
+
+[adr: 0xb2c56b64 samp: 0x127b64 gta: 0xff881b64] _Z25InitialiseRenderWare_hookv
+
+[adr: 0xb3844562 samp: 0xd15562 gta: 0x46f562] _Z12Initialise3DPv
+
+[adr: 0xb37cbfc2 samp: 0xc9cfc2 gta: 0x3f6fc2] _Z15AppEventHandler7RsEventPv
+
+[adr: 0xb38a938c samp: 0xd7a38c gta: 0x4d438c] _Z14RsEventHandler7RsEventPv
+
+[adr: 0xb39ba3e6 samp: 0xe8b3e6 gta: 0x5e53e6] _Z21OS_ApplicationStartupiiiPPKc
+
+[adr: 0xb363ed7a samp: 0xb0fd7a gta: 0x269d7a] _Z14NVEventAppMainiPPc
+
+[adr: 0xb3651522 samp: 0xb22522 gta: 0x27c522] name not found
+
+[adr: 0xb364f170 samp: 0xb20170 gta: 0x27a170] name not found
+
+[adr: 0xec2c111c samp: 0x3979211c gta: 0x38eec11c] name not found
+
+[adr: 0xec279c0e samp: 0x3974ac0e gta: 0x38ea4c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x6E0424, r1: 0x6E0424, r2: 0xFF933770, r3: 0x26
+r4: 0xb7b22a38, r5: 0x30, r6: 0xbf9ce876, r7: 0xff933778
+r8: 0x0, r9: 0xefdcee00, sl: 0xff933840, fp: 0xff933804
+ip: 0xec2cd090, sp: 0xff933770, lr: 0xec2b0ab9, pc: 0xb2de67c0
+1: libGTASA.so + 0xFF7E67C0
+2: libGTASA.so + 0x38CB0AB9
+1: libsamp.so + 0x11D7C0
+2: libsamp.so + 0x395E7AB9
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x55fd000e gta: 0x5569900e] name not found
+
+[adr: 0xec2739ec samp: 0x395aa9ec gta: 0x38c739ec] name not found
+
+[adr: 0xb2de67c0 samp: 0x11d7c0 gta: 0xff7e67c0] Java_com_criminal_moscow_gui_mobilemenu_adapter_SettingsAdapter_setSetting
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x6E0424, r1: 0x6E0424, r2: 0xFF933770, r3: 0x25
+r4: 0xaebdbf50, r5: 0x30, r6: 0xbf9d3876, r7: 0xff933778
+r8: 0x0, r9: 0xefdcee00, sl: 0xff933840, fp: 0xff933804
+ip: 0xec2cd090, sp: 0xff933770, lr: 0xec2b0ab9, pc: 0xb2a1f7c0
+1: libGTASA.so + 0xFF5D97C0
+2: libGTASA.so + 0x38E6AAB9
+1: libsamp.so + 0x11D7C0
+2: libsamp.so + 0x399AEAB9
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x5639700e gta: 0x5585300e] name not found
+
+[adr: 0xec2739ec samp: 0x399719ec gta: 0x38e2d9ec] name not found
+
+[adr: 0xb2a1f7c0 samp: 0x11d7c0 gta: 0xff5d97c0] Java_com_criminal_moscow_gui_mobilemenu_adapter_SettingsAdapter_setSetting
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x0, r1: 0x2, r2: 0xC228, r3: 0x0
+r4: 0xb3263c00, r5: 0xb3f60150, r6: 0xb27d70e4, r7: 0xb27d7108
+r8: 0x0, r9: 0x0, sl: 0x0, fp: 0x1
+ip: 0xb3c817a4, sp: 0xb27d70e0, lr: 0xb3bf23df, pc: 0xb38b9136
+1: libGTASA.so + 0x2AC136
+2: libGTASA.so + 0x5E53DF
+1: libsamp.so + 0xED6136
+2: libsamp.so + 0x120F3DF
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x562b600e gta: 0x5568c00e] name not found
+
+[adr: 0xec2739ec samp: 0x398909ec gta: 0x38c669ec] name not found
+
+[adr: 0xb38b9136 samp: 0xed6136 gta: 0x2ac136] _ZN14MobileSettings19SetRendererDefaultsEv
+
+[adr: 0xb3876d7a samp: 0xe93d7a gta: 0x269d7a] _Z14NVEventAppMainiPPc
+
+[adr: 0xb3889522 samp: 0xea6522 gta: 0x27c522] name not found
+
+[adr: 0xb3887170 samp: 0xea4170 gta: 0x27a170] name not found
+
+[adr: 0xec2c111c samp: 0x398de11c gta: 0x38cb411c] name not found
+
+[adr: 0xec279c0e samp: 0x39896c0e gta: 0x38c6cc0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0x0, r1: 0x2, r2: 0x2, r3: 0x0
+r4: 0xb0d26f80, r5: 0xb39ea150, r6: 0xb290d0e4, r7: 0xb290d108
+r8: 0xa150, r9: 0x0, sl: 0x0, fp: 0x1
+ip: 0xb370b7a4, sp: 0xb290d0e0, lr: 0xb367c3df, pc: 0xb3343136
+1: libGTASA.so + 0x2AC136
+2: libGTASA.so + 0x5E53DF
+1: libsamp.so + 0x931136
+2: libsamp.so + 0xC6A3DF
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x5628700e gta: 0x55c0200e] name not found
+
+[adr: 0xec2739ec samp: 0x398619ec gta: 0x391dc9ec] name not found
+
+[adr: 0xb3343136 samp: 0x931136 gta: 0x2ac136] _ZN14MobileSettings19SetRendererDefaultsEv
+
+[adr: 0xb3300d7a samp: 0x8eed7a gta: 0x269d7a] _Z14NVEventAppMainiPPc
+
+[adr: 0xb3313522 samp: 0x901522 gta: 0x27c522] name not found
+
+[adr: 0xb3311170 samp: 0x8ff170 gta: 0x27a170] name not found
+
+[adr: 0xec2c111c samp: 0x398af11c gta: 0x3922a11c] name not found
+
+[adr: 0xec279c0e samp: 0x39867c0e gta: 0x391e2c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB2A9D968, r1: 0x1, r2: 0x0, r3: 0xFFFFFFFF
+r4: 0x57fcb3b1, r5: 0x64b3b957, r6: 0xb2cbe374, r7: 0xb28920d8
+r8: 0x0, r9: 0x3, sl: 0x0, fp: 0x1
+ip: 0xb3b81f4c, sp: 0xb28920c0, lr: 0xb2ae1b0b, pc: 0xb2ae1b20
+1: libGTASA.so + 0xFF5D1B20
+2: libGTASA.so + 0xFF5D1B0B
+1: libsamp.so + 0x11DB20
+2: libsamp.so + 0x11DB0B
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x562d500e gta: 0x5578900e] name not found
+
+[adr: 0xec2739ec samp: 0x398af9ec gta: 0x38d639ec] name not found
+
+[adr: 0xb2ae1b20 samp: 0x11db20 gta: 0xff5d1b20] _Z26hooked_SetRendererDefaultsPv
+
+[adr: 0xb3af53de samp: 0x11313de gta: 0x5e53de] _Z21OS_ApplicationStartupiiiPPKc
+
+[adr: 0xb3779d7a samp: 0xdb5d7a gta: 0x269d7a] _Z14NVEventAppMainiPPc
+
+[adr: 0xb378c522 samp: 0xdc8522 gta: 0x27c522] name not found
+
+[adr: 0xb378a170 samp: 0xdc6170 gta: 0x27a170] name not found
+
+[adr: 0xec2c111c samp: 0x398fd11c gta: 0x38db111c] name not found
+
+[adr: 0xec279c0e samp: 0x398b5c0e gta: 0x38d69c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB2D6A968, r1: 0x1, r2: 0x0, r3: 0xFFFFFFFF
+r4: 0x64b39ac7, r5: 0xb2f8b364, r6: 0xc7fcb393, r7: 0xb2b8c0d8
+r8: 0x3, r9: 0x0, sl: 0x0, fp: 0x1
+ip: 0xec2cd114, sp: 0xb2b8c0c8, lr: 0xb2daeafd, pc: 0xb2daeb12
+1: libGTASA.so + 0xFFA87B12
+2: libGTASA.so + 0xFFA87AFD
+1: libsamp.so + 0x11DB12
+2: libsamp.so + 0x11DAFD
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x5600800e gta: 0x5597200e] name not found
+
+[adr: 0xec2739ec samp: 0x395e29ec gta: 0x38f4c9ec] name not found
+
+[adr: 0xb2daeb12 samp: 0x11db12 gta: 0xffa87b12] _Z26hooked_SetRendererDefaultsPv
+
+[adr: 0xb390c3de samp: 0xc7b3de gta: 0x5e53de] _Z21OS_ApplicationStartupiiiPPKc
+
+[adr: 0xb3590d7a samp: 0x8ffd7a gta: 0x269d7a] _Z14NVEventAppMainiPPc
+
+[adr: 0xb35a3522 samp: 0x912522 gta: 0x27c522] name not found
+
+[adr: 0xb35a1170 samp: 0x910170 gta: 0x27a170] name not found
+
+[adr: 0xec2c111c samp: 0x3963011c gta: 0x38f9a11c] name not found
+
+[adr: 0xec279c0e samp: 0x395e8c0e gta: 0x38f52c0e] name not found
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB287CE51, r1: 0x64B35567, r2: 0x1, r3: 0xFFFFFFFF
+r4: 0x3e, r5: 0xb2aa8738, r6: 0xb2aa8304, r7: 0xff933778
+r8: 0x0, r9: 0xefdcee00, sl: 0xff933840, fp: 0xff933804
+ip: 0xec2cd114, sp: 0xff933768, lr: 0xb28cbced, pc: 0xb28cbd08
+1: libGTASA.so + 0xFF9FAD08
+2: libGTASA.so + 0xFF9FACED
+1: libsamp.so + 0x11DD08
+2: libsamp.so + 0x11DCED
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x564eb00e gta: 0x55dc800e] name not found
+
+[adr: 0xec2739ec samp: 0x39ac59ec gta: 0x393a29ec] name not found
+
+[adr: 0xb28cbd08 samp: 0x11dd08 gta: 0xff9fad08] Java_com_criminal_moscow_gui_mobilemenu_adapter_SettingsAdapter_setSetting
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB2B2EFAA, r1: 0x38, r2: 0x0, r3: 0xFFFFFFFF
+r4: 0x38, r5: 0xb2d52648, r6: 0xbf9c5876, r7: 0xff933778
+r8: 0x0, r9: 0xefdcee00, sl: 0xff933840, fp: 0xff933804
+ip: 0xec2cd114, sp: 0xff933770, lr: 0xb2b75c11, pc: 0xb2b75c2c
+1: libGTASA.so + 0xFF452C2C
+2: libGTASA.so + 0xFF452C11
+1: libsamp.so + 0x11DC2C
+2: libsamp.so + 0x11DC11
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x5624100e gta: 0x5557600e] name not found
+
+[adr: 0xec2739ec samp: 0x3981b9ec gta: 0x38b509ec] name not found
+
+[adr: 0xb2b75c2c samp: 0x11dc2c gta: 0xff452c2c] Java_com_criminal_moscow_gui_mobilemenu_adapter_SettingsAdapter_setSetting
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xB2AF2E11, r1: 0x64B3BDF7, r2: 0x1, r3: 0xFFFFFFFF
+r4: 0x29, r5: 0xb2d1e6c8, r6: 0xb2d1e294, r7: 0xff933778
+r8: 0x0, r9: 0xefdcee00, sl: 0xff933840, fp: 0xff933804
+ip: 0xec2cd114, sp: 0xff933768, lr: 0xb2b41c79, pc: 0xb2b41c94
+1: libGTASA.so + 0xFF5E7C94
+2: libGTASA.so + 0xFF5E7C79
+1: libsamp.so + 0x11DC94
+2: libsamp.so + 0x11DC79
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x5627500e gta: 0x5573f00e] name not found
+
+[adr: 0xec2739ec samp: 0x3984f9ec gta: 0x38d199ec] name not found
+
+[adr: 0xb2b41c94 samp: 0x11dc94 gta: 0xff5e7c94] Java_com_criminal_moscow_gui_mobilemenu_adapter_SettingsAdapter_setSetting
+
+/storage/emulated/0/Android/data/com.criminal.moscow/files/crash_log.log
+register states:
+r0: 0xFFFA3FCA, r1: 0x1, r2: 0x39, r3: 0xFFFFFFFF
+r4: 0xb2c6b614, r5: 0xb2c6b1e0, r6: 0xbf9cd876, r7: 0xff933778
+r8: 0x0, r9: 0xefdcee00, sl: 0xff933840, fp: 0xff933804
+ip: 0xec2cd114, sp: 0xff933770, lr: 0xb2a8ec47, pc: 0xb2a8ec76
+1: libGTASA.so + 0xFF46FC76
+2: libGTASA.so + 0xFF46FC47
+1: libsamp.so + 0x11DC76
+2: libsamp.so + 0x11DC47
+Last rendered object: 0
+------------ START BACKTRACE ------------
+ 
+[adr: 0x8c9900e samp: 0x5632800e gta: 0x5567a00e] name not found
+
+[adr: 0xec2739ec samp: 0x399029ec gta: 0x38c549ec] name not found
+
+[adr: 0xb2a8ec76 samp: 0x11dc76 gta: 0xff46fc76] Java_com_criminal_moscow_gui_mobilemenu_adapter_SettingsAdapter_setSetting
+

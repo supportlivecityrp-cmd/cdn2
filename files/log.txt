@@ -1,0 +1,1013 @@
+/storage/emulated/0/Android/data/com.criminal.moscow/files/log.txt
+Opening settings: /storage/emulated/0/Android/data/com.criminal.moscow/files/SAMP/settings.ini
+SetSize m_Settings.szNickName
+snprintf m_Settings.szNickName
+end m_Settings.szNickName
+New fps limit = 0
+New fps limit = 60
+/storage/emulated/0/Android/data/com.criminal.moscow/files/main.8.com.rockstargames.gtasa.obb
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/main.8.com.rockstargames.gtasa.obb)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/patch.8.com.rockstargames.gtasa.obb
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/patch.8.com.rockstargames.gtasa.obb)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXT/AMERICAN.GXT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/gta_sa.set
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXT/RUSSIAN.GXT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/gtasatelem.set
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/mobile/mobile.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/mobile/mobile.dxt.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/mobile/mobile.dxt.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/mobile/mobile.dxt.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/txd/txd.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/txd/txd.dxt.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/txd/txd.dxt.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/txd/txd.dxt.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gta3/gta3.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gta3/gta3.etc.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gta3/gta3.etc.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gta3/gta3.etc.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gta_int/gta_int.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gta_int/gta_int.etc.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gta_int/gta_int.etc.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gta_int/gta_int.etc.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/player/player.txt
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/player/player.txt)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/menu/menu.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/menu/menu.dxt.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/menu/menu.dxt.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/menu/menu.dxt.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/samp/samp.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/samp/samp.dxt.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/samp/samp.dxt.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/samp/samp.dxt.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gui/gui.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gui/gui.dxt.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gui/gui.dxt.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gui/gui.dxt.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gtasa/gtasa.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gtasa/gtasa.dxt.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gtasa/gtasa.dxt.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/gtasa/gtasa.dxt.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/radar/radar.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/radar/radar.etc.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/radar/radar.etc.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/radar/radar.etc.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/cars/cars.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/cars/cars.dxt.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/cars/cars.dxt.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/cars/cars.dxt.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/skins/skins.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/skins/skins.dxt.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/skins/skins.dxt.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/skins/skins.dxt.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/ints/ints.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/ints/ints.dxt.tmb
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/ints/ints.dxt.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/ints/ints.dxt.toc
+/storage/emulated/0/Android/data/com.criminal.moscow/files/models/coll/peds.col
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/cutscene/cutscene.txt
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/cutscene/cutscene.txt)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/player/player.txt
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/texdb/player/player.txt)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/Textures/Fonts/RussianFont.met
+/storage/emulated/0/Android/data/com.criminal.moscow/files/Textures/Fonts/RussianFont.png
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/FONTS.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXT/RUSSIAN.GXT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/TouchDefaultPhoneWidescreen.cfg
+/storage/emulated/0/Android/data/com.criminal.moscow/files/Adjustable.cfg
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/Adjustable.cfg)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/ShopUVs.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/HANDLING.CFG
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/surface.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/surfinfo.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/surfaud.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/PEDSTATS.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/PedEvent.txt
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/RANDOM.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/m_norm.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/m_plyr.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/RANDOM.grp
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/MISSION.grp
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/GangMbr.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/Cop.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/R_Norm.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/R_Tough.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/R_Weak.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/Fireman.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/m_empty.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/Indoors.ped
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/RANDOM.grp
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/decision/allowed/RANDOM2.grp
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/TIMECYC.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/colorcycle.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/POPCYCLE.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/BANKSLOT.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/BANKLKUP.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/PAKFILES.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/FEET.osw
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/FEET.osw.idx
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/GENRL.osw
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/GENRL.osw.idx
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/PAIN_A.osw
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/PAIN_A.osw.idx
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SCRIPT.osw
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SCRIPT.osw)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SPC_EA.osw
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SPC_EA.osw)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SPC_FA.osw
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SPC_FA.osw)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SPC_GA.osw
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SPC_GA.osw)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SPC_NA.osw
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SPC_NA.osw)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SPC_PA.osw
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/SPC_PA.osw)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/SOUNDINF.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/STRMPAKS.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/TRAKLKUP.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/TRKHEAD.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/STRMPAKS.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/TRAKLKUP.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/TRKHEAD.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/CONFIG/EVENTVOL.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/GENRL.osw
+/storage/emulated/0/Android/data/com.criminal.moscow/files/GTASAsf10.b
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/GTASAsf10.b)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/scache.txt
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+precision mediump float;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+CGame: InitInMenu
+Installing patches..
+InstallHooks
+32 bit
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/FEET.osw
+CGame: InitInMenu1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/SFX/GENRL.osw
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+Error: Texture (remapbody24) not found in database (gta3)
+WARNING! No tex = remapbody24
+5
+Error: Texture (gta3) not found in database (remapbody24)
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+CGame: InitInMenu2
+CGame: InitInMenu3
+CGame: InitInMenu4
+end CGame: InitInMenu
+Initializing GUI..
+GUI | Display size: 2400.000000, 1080.000000
+GUI | Scale factor: 1.250000, 1.000000 Font size: 25.000000
+GUI | Loading font: visby-round-cf-extra-bold.ttf
+GUI | ImFont pointer = 0xBA490FC0
+Initalizing KeyBoard..
+Size: 2400.000000, 594.000000. Pos: 0.000000, 486.000000
+font size: 70.000000. Key's height: 118.800003
+Initalizing KeyBoardHistory..
+InitENG
+InitRU
+InitNUM
+1
+2
+3
+4
+5
+6
+/storage/emulated/0/Android/data/com.criminal.moscow/files/scache_small.txt
+precision mediump float;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, O
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;varying mediump vec2 Out_WaterDetail;varying mediump vec2 Out_WaterDetail2;varying mediump float Out_WaterAlphaBlend;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.a += Out_WaterAlphaBlend;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;varying mediump vec2 Out_WaterDetail;varying mediump vec2 Out_WaterDetail2;varying mediump float Out_WaterAlphaBlend;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;float waterDetail = texture2D(EnvMap, Out_WaterDetail, -1.0).x 
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump vec2 Out_Tex1;uniform sampler2D EnvMap;uniform lowp float EnvMapCoefficient;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, texture2D(EnvMap, Out_Tex1).xyz, EnvMapCoefficient);fcolor.xyz = mix(fcolor.xyz, FogColor, 
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.5) { discard; }gl_FragColor.a = Out_Color.a;/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.5) { discard; }gl_FragColor.a = Out_Color.a;/*ATEND*/gl_FragColor.a *= A
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, O
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, O
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, O
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, O
+precision mediump float;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;gl_FragColor = fcolor;}
+precision mediump float;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;gl_FragColor = fcolor;}
+precision mediump float;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;gl_FragColor = fcolor;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.5) { discard; }gl_FragColor.a = Out_Color.a;/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.5) { discard; }gl_FragColor.a = Out_Color.a;/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.5) { discard; }gl_FragColor.a = Out_Color.a;/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;uniform sampler2D EnvMap;uniform float DetailTiling;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= vec4(Out_Color.xyz * texture2D(EnvMap, Out_Tex0.xy * DetailTiling, -0.5).xyz * 2.0, Out_Color.w);fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;/*ATBEGIN*/if (gl_FragColor.a < 0.2) { discard; }/*ATEND*/}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump vec3 Out_Refl;uniform sampler2D EnvMap;uniform lowp float EnvMapCoefficient;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;varying lowp vec3 Out_Spec;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;vec2 ReflPos = normalize(Out_Refl.xy) * (Out_Refl.z * 0.5 + 0.5);ReflPos = (ReflPos * vec2(0.
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump vec3 Out_Refl;uniform sampler2D EnvMap;uniform lowp float EnvMapCoefficient;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;varying lowp vec3 Out_Spec;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;vec2 ReflPos = normalize(Out_Refl.xy) * (Out_Refl.z * 0.5 + 0.5);ReflPos = (ReflPos * vec2(0.
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump vec3 Out_Refl;uniform sampler2D EnvMap;uniform lowp float EnvMapCoefficient;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;varying lowp vec3 Out_Spec;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;vec2 ReflPos = normalize(Out_Refl.xy) * (Out_Refl.z * 0.5 + 0.5);ReflPos = (ReflPos * vec2(0.
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump vec3 Out_Refl;uniform sampler2D EnvMap;uniform lowp float EnvMapCoefficient;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;varying lowp vec3 Out_Spec;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;vec2 ReflPos = normalize(Out_Refl.xy) * (Out_Refl.z * 0.5 + 0.5);ReflPos = (ReflPos * vec2(0.
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump vec3 Out_Refl;uniform sampler2D EnvMap;uniform lowp float EnvMapCoefficient;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;varying lowp vec3 Out_Spec;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;vec2 ReflPos = normalize(Out_Refl.xy) * (Out_Refl.z * 0.5 + 0.5);ReflPos = (ReflPos * vec2(0.
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump vec3 Out_Refl;uniform sampler2D EnvMap;uniform lowp float EnvMapCoefficient;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;varying lowp vec3 Out_Spec;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;vec2 ReflPos = normalize(Out_Refl.xy) * (Out_Refl.z * 0.5 + 0.5);ReflPos = (ReflPos * vec2(0.
+precision mediump float;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz += fcolor.xyz * 0.5;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz += fcolor.xyz * 0.5;gl_FragColor = fcolor;}
+CPools::Initialise
+/storage/emulated/0/Android/data/com.criminal.moscow/files/gta3.ini
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/gta3.ini)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/ANIMGRP.DAT
+Loading: TEXDB\GTA3.IMG...
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/GTA3.IMG
+Loading: TEXDB\GTA_INT.IMG...
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/GTA_INT.IMG
+Loading: TEXDB\SAMP.IMG...
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/SAMP.IMG
+Loading: TEXDB\SAMPCOL.IMG...
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/SAMPCOL.IMG
+Loading: TEXDB\CARS.IMG...
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/CARS.IMG
+Loading: TEXDB\SKINS.IMG...
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/SKINS.IMG
+/storage/emulated/0/Android/data/com.criminal.moscow/files/stream.ini
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/melee.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/models/effects.fxp
+/storage/emulated/0/Android/data/com.criminal.moscow/files/CINFO.BIN
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/CINFO.BIN)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/DEFAULT.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/DEFAULT.IDE
+Loading vehicles.ide..
+/storage/emulated/0/Android/data/com.criminal.moscow/files//SAMP/vehicles.ide
+Loading peds.ide..
+/storage/emulated/0/Android/data/com.criminal.moscow/files//SAMP/peds.ide
+/storage/emulated/0/Android/data/com.criminal.moscow/files/MODELS/COLL/WEAPONS.COL
+Loading gta.dat..
+/storage/emulated/0/Android/data/com.criminal.moscow/files//SAMP/gta.dat
+Loading: DATA\SCRIPT\SCRIPTV1.IMG...
+Loading script.img..
+/storage/emulated/0/Android/data/com.criminal.moscow/files/SAMP/script.img
+Loading: DATA\MAPS\paths.IMG...
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/paths.IMG
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/generic/vegepart.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/generic/dynamic.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/generic/dynamic2.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/generic/multiobj.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/generic/procobj.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/leveldes/levelxre.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR1.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR2.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR3.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR4.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR5.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR6.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR7.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR8.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR9.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR10.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR11.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR12.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR14.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/SAMP/SAMP.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/veh_mods/veh_mods.IDE
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/OBJECT.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/CARCOLS.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/CARMODS.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/MODELS/MINFO.BIN
+NVFOpen hook | Error: file not found (/storage/emulated/0/Android/data/com.criminal.moscow/files/MODELS/MINFO.BIN)
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/GTA3.IMG
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/GTA_INT.IMG
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/SAMP.IMG
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/SAMPCOL.IMG
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/CARS.IMG
+/storage/emulated/0/Android/data/com.criminal.moscow/files/TEXDB/SKINS.IMG
+Loading script.img..
+/storage/emulated/0/Android/data/com.criminal.moscow/files/SAMP/script.img
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/paths.IMG
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAP.ZON
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/INFO.ZON
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR1.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR2.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR3.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR4.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR5.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR6.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR7.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR8.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR9.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR10.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR11.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR12.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/MAPS/CR14.IPL
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/water.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/ANIM/PED.IFP
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/PED.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/WEAPON.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/paths/roadblox.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/PEDGRP.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/CARGRP.DAT
+Loading /storage/emulated/0/Android/data/com.criminal.moscow/files/SAMP/main.scm
+/storage/emulated/0/Android/data/com.criminal.moscow/files/SAMP/main.scm
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/GRIDREF.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/AR_STATS.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/DATA/STATDISP.DAT
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/shopping.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/furnitur.dat
+/storage/emulated/0/Android/data/com.criminal.moscow/files/data/procobj.dat
+CGame: InitInGame
+Installing patches (ingame)..
+InitScripting
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/STREAMS/AMBIENCE.osw
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/STREAMS/AMBIENCE.osw.idx
+/storage/emulated/0/Android/data/com.criminal.moscow/files/AUDIO/STREAMS/AMBIENCE.osw
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+Registering RPC's..
+Registering ScriptRPC's..
+InitInGame() end
+model: 17364 X: 0.000000 Y: 0.000000 Z: 0.000000
+m_dwGTAId: 1 
+CObject created!
+17364 model
+sert
+SkyBox Create : 17364
+SkyBox: skybox_4
+1
+2
+3
+4
+5
+6
+GUI | CreateDeviceObjects.
+GUI | Font atlas width: 1024, height: 1024, depth: 32
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+GUI | Vertex buffer reallocated. Size: 30000
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+Incoming packet: ID_AUTH_KEY
+Packet_ConnectionSucceeded
+RPC: ScrTogglePlayerSpectating
+toggle: 1
+RPC: TogglePlayerControllable
+RPC: InitGame
+ScrInterpolateCamera
+ScrInterpolateCamera
+ClearAllWeapons 9f83a800
+setSetting: id 1 | value 51
+setSetting: id 1 | value 54
+setSetting: id 1 | value 57
+setSetting: id 1 | value 58
+setSetting: id 1 | value 60
+setSetting: id 1 | value 61
+setSetting: id 1 | value 63
+setSetting: id 1 | value 65
+setSetting: id 1 | value 66
+setSetting: id 1 | value 67
+setSetting: id 1 | value 69
+setSetting: id 1 | value 70
+setSetting: id 1 | value 71
+setSetting: id 1 | value 73
+setSetting: id 1 | value 74
+setSetting: id 1 | value 75
+setSetting: id 1 | value 76
+setSetting: id 1 | value 78
+setSetting: id 1 | value 79
+setSetting: id 1 | value 80
+setSetting: id 1 | value 81
+setSetting: id 1 | value 82
+setSetting: id 1 | value 83
+setSetting: id 1 | value 84
+RPC: ScrSetSpawnInfo
+RPC: ScrTogglePlayerSpectating
+CLocalPlayer::Spawn
+ClearAllWeapons 9f83a800
+ResetDamageEntity
+toggle: 0
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;}
+precision mediump float;uniform sampler2D Diffuse;varying mediump vec2 Out_Tex0;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;lowp vec4 diffuseColor = texture2D(Diffuse, Out_Tex0, -0.5);fcolor = diffuseColor;fcolor *= Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+precision mediump float;varying mediump float Out_FogAmt;uniform lowp vec3 FogColor;varying lowp vec4 Out_Color;uniform lowp float AlphaModulate;void main(){lowp vec4 fcolor;fcolor = Out_Color;fcolor.xyz = mix(fcolor.xyz, FogColor, Out_FogAmt);gl_FragColor = fcolor;gl_FragColor.a *= AlphaModulate;}
+RPC: ScrSetPlayerPos
+RPC: ScrSetPlayerFacingAngle
+RPC: ScrSetCameraBehindPlayer
+RPC: ScrSetPlayerInterior
+RPC: ScrSetPlayerSkin
+SetModelIndex
+RequestModel 22
+RPC: ScrSetPlayerArmour

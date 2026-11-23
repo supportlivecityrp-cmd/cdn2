@@ -1,0 +1,13 @@
+cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
+"883327" camnorm=1 alphamode=2 height=512 width=512 img=c29d37bc
+"ambulance" camnorm=1 alphamode=2 height=512 width=512 img=a3434c51
+"fisherman" camnorm=1 alphamode=2 height=512 width=512 img=9f920954
+"mechanic" camnorm=1 alphamode=2 height=512 width=512 img=d95fd1b8
+"police" camnorm=1 alphamode=2 height=512 width=512 img=9be3200f
+"taxi" camnorm=1 alphamode=2 height=512 width=512 img=e5073007
+"burger" camnorm=1 alphamode=2 height=512 width=512 img=ec8955c3
+"greenmoney" camnorm=1 alphamode=2 height=128 width=256 img=5a3e7931
+"redmoney" camnorm=1 alphamode=2 height=128 width=256 img=581fdf60
+"bank" camnorm=1 alphamode=2 height=32 width=64 img=65cfcfdc
+"black_money" camnorm=1 alphamode=2 height=32 width=64 img=519e90e5
+"ammu" camnorm=1 alphamode=2 height=512 width=512 img=840ba21d

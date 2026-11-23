@@ -1,0 +1,9 @@
+cat=0 name=Default onfoot=0 slow=0 fast=0 defaultstream=0
+"icon_towtruck" width=256 height=256 img=4c892efc mipmode=0 alphamode=2
+"keyboard_icon" width=128 height=128 img=f72911d5 mipmode=0 alphamode=2
+"mute_icon" width=256 height=256 img=fbae89b mipmode=0 alphamode=2
+"speaker_icon" width=256 height=256 img=32c87a60 mipmode=0 alphamode=2
+"icon_bottle" camnorm=1 alphamode=2 height=256 width=256 img=a5530616
+"icon_buy" camnorm=1 alphamode=2 height=256 width=256 img=d7168bae
+"icon_rocket" camnorm=1 alphamode=2 height=256 width=256 img=befa9afa
+"icon_rod" camnorm=1 alphamode=2 height=256 width=256 img=04a62b20
