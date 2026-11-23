@@ -1,0 +1,24 @@
+#vk.com/liverussia.online
+objs
+#
+10778, newlamp_1, CR, 150, 0
+10779, newlamp_1c, CR, 25, 0
+#
+10836, newlamp_2, CR, 150, 0
+10837, newlamp_2c, CR, 25, 0
+#
+10846, newlamp_3, CR, 150, 0
+10847, newlamp_3c, CR, 25, 0
+#
+10879, newlamp_4, CR, 150, 0
+10880, newlamp_4c, CR, 25, 0
+#
+11038, newlamp_5, CR, 150, 0
+11039, newlamp_5c, CR, 25, 0
+#
+11072, newlamp_6, CR, 150, 0
+11073, newlamp_6c, CR, 25, 0
+#
+11136, newlamp_7, CR, 100, 0
+11137, newlamp_7c, CR, 25, 0
+end

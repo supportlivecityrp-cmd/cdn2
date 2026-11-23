@@ -1,0 +1,97 @@
+// This file was decompiled using SASCM.ini published on 2022-03-20
+DEFINE OBJECTS 1
+DEFINE OBJECT SANNY BUILDER 3.2.4     
+
+DEFINE MISSIONS 0
+
+DEFINE EXTERNAL_SCRIPTS 0 // Use -1 in order not to compile AAA script
+
+DEFINE UNKNOWN_EMPTY_SEGMENT 0
+
+DEFINE UNKNOWN_THREADS_MEMORY 0
+
+
+//-------------MAIN---------------
+script_name 'MAIN' 
+fade 0 time 0 
+042C: set_total_missions_to 0 
+030D: set_max_progress 0 
+01F0: set_max_wanted_level_to 6 
+set_wb_check_to 0 
+00C0: set_current_time_hours_to 10 minutes_to 0 
+04E4: refresh_game_renderer_at 0.0 0.0 
+Camera.SetAtPos(0.0, 0.0, 20.0)
+062A: change_float_stat 21 to 0.0 
+0629: change_integer_stat 181 to 4 
+0629: change_integer_stat 68 to 0 
+Player.Create($PLAYER_CHAR, 0, 2493.0, -2141.0, 21.0)
+07AF: $PLAYER_GROUP = player $PLAYER_CHAR group 
+Actor.EmulateFromPlayer($PLAYER_ACTOR, $PLAYER_CHAR)
+Camera.SetBehindPlayer
+Actor.Angle($PLAYER_ACTOR) = 0.0
+set_weather 15 
+Player.SetClothes($PLAYER_CHAR, "TSHIRTBOBORED", "TSHIRT", BodyPart.Torso)
+Player.SetClothes($PLAYER_CHAR, "WORKTRGREY", "WORKTR", BodyPart.Legs)
+Player.SetClothes($PLAYER_CHAR, "SNEAKERBINCBLK", "SNEAKER", BodyPart.Shoes)
+Player.SetClothes($PLAYER_CHAR, "PLAYER_FACE", "HEAD", BodyPart.Head)
+Player.Build($PLAYER_CHAR)
+select_interior 0 
+Player.CanMove($PLAYER_CHAR, True)
+016C: restart_if_wasted_at 2778.0 -414.0 24.0 angle 0.0 town_number 0 
+016C: restart_if_wasted_at 2778.0 -414.0 24.0 angle 0.0 town_number 0 
+fade 1 time 1000 
+wait 100 
+03E6: remove_text_box 
+jump @MAIN_409 
+0A60: 
+
+:MAIN_345
+wait 20 
+if or
+00E1:   player 0 pressed_key 4 
+0A52: 
+jf @MAIN_345 
+023C: load_special_actor 'CASHIE' as 1 // models 290-299 
+038B: load_requested_models 
+
+:MAIN_383
+if 
+823D:   not special_actor 1 loaded 
+jf @MAIN_409 
+wait 0 
+jump @MAIN_383 
+
+:MAIN_409
+
+:MAIN_432
+jump @MAIN_665 
+
+:MAIN_543
+wait 10 
+if or
+00E1:   player 0 pressed_key 4 
+0A52: 
+jf @MAIN_543 
+02A3: enable_widescreen 1 
+wait 5000 
+02A3: enable_widescreen 0 
+
+:MAIN_579
+wait 10 
+if or
+00E1:   player 0 pressed_key 4 
+0A52: 
+jf @MAIN_579 
+02A3: enable_widescreen 1 
+Player.CanMove($PLAYER_CHAR, False)
+0337: set_actor $PLAYER_ACTOR visibility 0 
+wait 5000 
+02A3: enable_widescreen 0 
+0337: set_actor $PLAYER_ACTOR visibility 1 
+Player.CanMove($PLAYER_CHAR, True)
+09C7: change_player $PLAYER_CHAR model_to 0 
+jump @MAIN_543 
+
+:MAIN_665
+wait 2500 
+jump @MAIN_665 
